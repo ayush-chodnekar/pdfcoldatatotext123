@@ -1,0 +1,329 @@
+{
+  "strategy_name": "AB-Global-Equity",
+  "processing_date": "2025-11-21T17:27:48.446779",
+  "processing_method": "silver_with_matrix",
+  "source_reports": [
+    "AB_168733_341068_Global Core Research Report.pdf",
+    "AB_168733_383526_Global Core Equity Research Report.pdf",
+    "AB_168733_422257_AB Global Core Equity - RR 2023 (Maintaining A(W)).pdf"
+  ],
+  "total_reports": 3,
+  "attributes": {
+    "pros": [
+      {
+        "text": "The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "Across multiple reports, the text consistently mentions 'The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach,' which, according to the silver_matrix, indicates Strong team capability due to extensive experience, long-standing collaboration, and commitment to the strategy."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The team's commitment to the approach reflects disciplined adherence to their investment strategy. This aligns with the silver_matrix definition of 'High' for consistent methodology adherence."
+          }
+        }
+      },
+      {
+        "text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "Across multiple reports, the text consistently describes a structured and routine process with weekly screens and team discussions, indicating a clear and systematic approach. This aligns with the silver_matrix criteria for 'Clear' as it demonstrates a structured methodology."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation. According to the silver_matrix, 'High' is assigned when there is consistent adherence to a structured methodology."
+          },
+          "Repeatability": {
+            "value": "Scalable",
+            "explanation": "The text states: 'The process begins with ten routine screens that are run weekly,' which suggests a repeatable and scalable process, meeting the silver_matrix criteria for Scalable repeatability."
+          }
+        }
+      },
+      {
+        "text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "High",
+            "explanation": "Across multiple reports, the text consistently mentions 'The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors,' which, according to the silver_matrix, indicates High innovation level because incorporating ESG factors into financial models reflects a forward-thinking and innovative approach."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The detailed description of how the discount rate is built indicates a clear and transparent process. This matches the silver_matrix criteria for 'Clear' as it provides specific details about the methodology."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "Across multiple reports, the text consistently mentions 'AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business,' which, according to the silver_matrix, indicates Robust resource strength due to the firm's scale and investment in growth areas."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on growth-generating areas aligns with the firm's strategic objectives. The silver_matrix assigns 'High' when the strategy aligns with long-term objectives."
+          }
+        }
+      },
+      {
+        "text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "Across multiple reports, the text consistently mentions 'This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha,' which, according to the silver_matrix, indicates High strategic alignment because the focus on stock-specific decisions aligns with the strategy's goal of driving alpha."
+          },
+          "Risk Management": {
+            "value": "Strong",
+            "explanation": "The risk-aware construction demonstrates strong risk management practices. The silver_matrix defines 'Strong' as demonstrating a strong focus on managing risk."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The underlying metrics within each screen do not appear particularly differentiated.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Low",
+            "explanation": "Across multiple reports, the text highlights that the metrics are not particularly differentiated, which, according to the silver_matrix, indicates Low innovation level."
+          },
+          "Uniqueness": {
+            "value": "Common",
+            "explanation": "The metrics are not unique, reducing the distinctiveness of the process. The silver_matrix assigns 'Common' when the process or metrics lack uniqueness."
+          },
+          "text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+          "type": "Con",
+          "section": "Implementation",
+          "attributes": {
+            "Execution Risk": {
+              "value": "Moderate",
+              "explanation": "Concerns about capacity limits indicate a moderate level of execution risk. The silver_matrix assigns 'Moderate' when there are capacity concerns."
+            },
+            "Resource Strength": {
+              "value": "Limited",
+              "explanation": "The concerns about capacity suggest potential limitations in resources. The silver_matrix assigns 'Limited' when there are potential resource constraints."
+            },
+            "text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed.",
+            "type": "Con",
+            "section": "Business Management",
+            "attributes": {
+              "Execution Risk": {
+                "value": "Moderate",
+                "explanation": "The potential loss of independence introduces a moderate risk to execution. The silver_matrix assigns 'Moderate' when there are risks to operational independence."
+              },
+              "Strategic Alignment": {
+                "value": "Moderate",
+                "explanation": "The alignment between AB and its parent company may be affected by external pressures. The silver_matrix assigns 'Moderate' when there is uncertainty or potential misalignment with long-term goals."
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently mentions 'The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach,' which, according to the silver_matrix, indicates Strong team capability due to extensive experience, long-standing collaboration, and commitment to the strategy.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's commitment to the approach reflects disciplined adherence to their investment strategy. This aligns with the silver_matrix definition of 'High' for consistent methodology adherence.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach."
+            },
+            {
+              "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation. According to the silver_matrix, 'High' is assigned when there is consistent adherence to a structured methodology.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently describes a structured and routine process with weekly screens and team discussions, indicating a clear and systematic approach. This aligns with the silver_matrix criteria for 'Clear' as it demonstrates a structured methodology.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            },
+            {
+              "explanation": "The detailed description of how the discount rate is built indicates a clear and transparent process. This matches the silver_matrix criteria for 'Clear' as it provides specific details about the methodology.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Repeatability": {
+        "Idea Generation": {
+          "value": "Scalable",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text states: 'The process begins with ten routine screens that are run weekly,' which suggests a repeatable and scalable process, meeting the silver_matrix criteria for Scalable repeatability.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently mentions 'The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors,' which, according to the silver_matrix, indicates High innovation level because incorporating ESG factors into financial models reflects a forward-thinking and innovative approach.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently mentions 'AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business,' which, according to the silver_matrix, indicates Robust resource strength due to the firm's scale and investment in growth areas.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on growth-generating areas aligns with the firm's strategic objectives. The silver_matrix assigns 'High' when the strategy aligns with long-term objectives.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently mentions 'This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha,' which, according to the silver_matrix, indicates High strategic alignment because the focus on stock-specific decisions aligns with the strategy's goal of driving alpha.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The risk-aware construction demonstrates strong risk management practices. The silver_matrix defines 'Strong' as demonstrating a strong focus on managing risk.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text highlights that the metrics are not particularly differentiated, which, according to the silver_matrix, indicates Low innovation level.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Common",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The metrics are not unique, reducing the distinctiveness of the process. The silver_matrix assigns 'Common' when the process or metrics lack uniqueness.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "text": {
+        "Idea Generation": {
+          "value": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Based on: The underlying metrics within each screen do not appear particularly differentiated....",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "type": {
+        "Idea Generation": {
+          "value": "Con",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Based on: The underlying metrics within each screen do not appear particularly differentiated....",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "section": {
+        "Idea Generation": {
+          "value": "Implementation",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Based on: The underlying metrics within each screen do not appear particularly differentiated....",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "attributes": {
+        "Idea Generation": {
+          "value": "",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

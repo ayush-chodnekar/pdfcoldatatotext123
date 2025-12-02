@@ -1,0 +1,453 @@
+{
+  "pdf_file": "AB_168733_383526_Global Core Equity Research Report.pdf",
+  "iteration": 1,
+  "processing_date": "2025-11-21T17:26:11.501991",
+  "attributes": {
+    "pros": [
+      {
+        "text": "AB Core holds the belief that the stability of earnings and cash-flow are under-appreciated by the market.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "The belief that stability of earnings and cash-flow are under-appreciated reflects a moderately innovative perspective on market inefficiencies."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on under-appreciated stability aligns well with the team's investment philosophy of identifying undervalued opportunities."
+          }
+        }
+      },
+      {
+        "text": "They also have a clear focus on the price they will be willing to pay for investment opportunities and adhere to a strict valuation discipline.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text explicitly mentions a 'clear focus' and 'strict valuation discipline,' indicating a well-defined process."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The adherence to strict valuation discipline suggests a robust and evidence-based approach to investment decisions."
+          }
+        }
+      },
+      {
+        "text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The use of routine weekly screens and structured team discussions reflects a disciplined approach to idea generation."
+          },
+          "Repeatability": {
+            "value": "Scalable",
+            "explanation": "The routine nature of the screens suggests a scalable and repeatable process."
+          }
+        }
+      },
+      {
+        "text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "High",
+            "explanation": "Incorporating ESG factors into the discount rate calculation reflects a forward-thinking and innovative approach."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The detailed description of how the discount rate is built indicates a clear and transparent process."
+          }
+        }
+      },
+      {
+        "text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The team's experience and long-standing collaboration indicate strong capability and cohesion."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The team's stability and commitment reduce execution risk."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The organization's scale and investment in growth areas indicate strong resource availability."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on growth areas aligns with the firm's broader strategic goals."
+          }
+        }
+      },
+      {
+        "text": "The firm stresses its collaborative culture and all teams share one Economic Research Group, one Credit Research Group, one Securitized Asset Research Group, and one Quantitative Research Group.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Collaboration Level": {
+            "value": "High",
+            "explanation": "The shared research groups and emphasis on collaboration reflect a high level of teamwork and integration."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The shared expertise across research groups enhances the overall capability of the teams."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The reliance on key individuals increases the risk of disruption if they were to leave."
+          },
+          "Dependence on Key Individuals": {
+            "value": "High",
+            "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating a high dependence on their input."
+          }
+        }
+      },
+      {
+        "text": "The underlying metrics within each screen do not appear particularly differentiated.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Uniqueness": {
+            "value": "Common",
+            "explanation": "The lack of differentiation in screening metrics suggests that the approach is not unique."
+          },
+          "Innovation Level": {
+            "value": "Low",
+            "explanation": "The text indicates that the metrics are not particularly innovative or distinct."
+          }
+        }
+      },
+      {
+        "text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "Concerns about capacity limits suggest a moderate level of execution risk."
+          },
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The concerns about capacity indicate potential limitations in managing resources effectively."
+          }
+        }
+      },
+      {
+        "text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential loss of independence introduces a moderate level of risk to the firm's operations."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The uncertainty around independence could misalign the firm's strategy with its long-term goals."
+          }
+        }
+      },
+      {
+        "text": "AB experienced some turmoil in 2008/09 when performance across a number of equity strategies struggled.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Track Record": {
+            "value": "Developing",
+            "explanation": "The historical struggles during 2008/09 indicate a track record that has faced challenges."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The past turmoil suggests a moderate risk of similar issues arising in the future."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The belief that stability of earnings and cash-flow are under-appreciated reflects a moderately innovative perspective on market inefficiencies.",
+              "source_text": "AB Core holds the belief that the stability of earnings and cash-flow are under-appreciated by the market."
+            },
+            {
+              "explanation": "Incorporating ESG factors into the discount rate calculation reflects a forward-thinking and innovative approach.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on under-appreciated stability aligns well with the team's investment philosophy of identifying undervalued opportunities.",
+              "source_text": "AB Core holds the belief that the stability of earnings and cash-flow are under-appreciated by the market."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on growth areas aligns with the firm's broader strategic goals.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions a 'clear focus' and 'strict valuation discipline,' indicating a well-defined process.",
+              "source_text": "They also have a clear focus on the price they will be willing to pay for investment opportunities and adhere to a strict valuation discipline."
+            },
+            {
+              "explanation": "The detailed description of how the discount rate is built indicates a clear and transparent process.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The adherence to strict valuation discipline suggests a robust and evidence-based approach to investment decisions.",
+              "source_text": "They also have a clear focus on the price they will be willing to pay for investment opportunities and adhere to a strict valuation discipline."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The use of routine weekly screens and structured team discussions reflects a disciplined approach to idea generation.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        }
+      },
+      "Repeatability": {
+        "Idea Generation": {
+          "value": "Scalable",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The routine nature of the screens suggests a scalable and repeatable process.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's experience and long-standing collaboration indicate strong capability and cohesion.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The shared expertise across research groups enhances the overall capability of the teams.",
+              "source_text": "The firm stresses its collaborative culture and all teams share one Economic Research Group, one Credit Research Group, one Securitized Asset Research Group, and one Quantitative Research Group."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's stability and commitment reduce execution risk.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The organization's scale and investment in growth areas indicate strong resource availability.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Collaboration Level": {
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The shared research groups and emphasis on collaboration reflect a high level of teamwork and integration.",
+              "source_text": "The firm stresses its collaborative culture and all teams share one Economic Research Group, one Credit Research Group, one Securitized Asset Research Group, and one Quantitative Research Group."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The reliance on key individuals increases the risk of disruption if they were to leave.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Concerns about capacity limits suggest a moderate level of execution risk.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential loss of independence introduces a moderate level of risk to the firm's operations.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            },
+            {
+              "explanation": "The past turmoil suggests a moderate risk of similar issues arising in the future.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across a number of equity strategies struggled."
+            }
+          ]
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating a high dependence on their input.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Common",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The lack of differentiation in screening metrics suggests that the approach is not unique.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text indicates that the metrics are not particularly innovative or distinct.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concerns about capacity indicate potential limitations in managing resources effectively.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The uncertainty around independence could misalign the firm's strategy with its long-term goals.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Business Management": {
+          "value": "Developing",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The historical struggles during 2008/09 indicate a track record that has faced challenges.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across a number of equity strategies struggled."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

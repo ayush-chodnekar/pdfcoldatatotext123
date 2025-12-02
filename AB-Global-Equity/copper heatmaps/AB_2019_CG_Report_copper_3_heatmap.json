@@ -1,0 +1,461 @@
+{
+  "pdf_file": "AB_2019_CG_Report.pdf",
+  "iteration": 3,
+  "processing_date": "2025-12-02T16:59:45.057221",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The team believes that long-term, consistent earnings growth drives long-term investment returns.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The belief in long-term, consistent earnings growth aligns with the strategy's focus on sustainable returns."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The statement reflects a clear investment philosophy centered on earnings growth."
+          }
+        }
+      },
+      {
+        "text": "They look to invest in high quality, growing companies producing superior and sustainable returns over the long term whilst minimizing risk.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on high-quality, growing companies aligns with the strategy's philosophy of sustainable returns."
+          },
+          "Risk Management": {
+            "value": "Strong",
+            "explanation": "The emphasis on minimizing risk demonstrates a strong risk management approach."
+          }
+        }
+      },
+      {
+        "text": "The team is experienced and collegiate and has been working together, following this focused approach, for many years.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The team's experience and long-term collaboration indicate strong capability."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The team's consistent adherence to a focused approach reflects high process discipline."
+          }
+        }
+      },
+      {
+        "text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The proactive capacity management aligns with the strategy's long-term sustainability goals."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The capacity limit reduces the risk of overextension, lowering execution risk."
+          }
+        }
+      },
+      {
+        "text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The portfolio construction aligns with the strategy's focus on high-quality stocks with upside potential."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process of selecting the best ideas from a vetted universe is clearly defined."
+          }
+        }
+      },
+      {
+        "text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Leadership Strength": {
+            "value": "Strong",
+            "explanation": "Mark Phelps' leadership is highlighted as a key strength of the strategy."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The strategy's philosophy and process are described as clear and well-structured."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "AB's scale and investment in growth areas indicate robust resources."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The firm's focus on growth-generating areas aligns with its strategic goals."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Collaboration": {
+            "value": "Moderate",
+            "explanation": "The potential for silos due to local focus suggests moderate collaboration challenges."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The risk of silos could impact the execution of a cohesive strategy."
+          }
+        }
+      },
+      {
+        "text": "Fees are optically higher than the median fee within the global equity universe, but we do note that AB is open to negotiating on this and appear to be eager to find fee structures that are aligned.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Cost Efficiency": {
+            "value": "Low",
+            "explanation": "Higher fees compared to peers indicate lower cost efficiency."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The willingness to negotiate fees shows some alignment with client interests."
+          }
+        }
+      },
+      {
+        "text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The concentrated portfolio increases the impact of individual stock mistakes, raising execution risk."
+          },
+          "Risk Management": {
+            "value": "Moderate",
+            "explanation": "The quality focus mitigates but does not eliminate the risks of concentration."
+          }
+        }
+      },
+      {
+        "text": "AB's majority owner is a large listed financial services company. While AB has been able to operate independently from its parent company AXA to date, there is no guarantee this independence will continue to be enjoyed.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Independence Risk": {
+            "value": "High",
+            "explanation": "The potential loss of independence from AXA poses a significant risk to AB's operations."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The alignment between AB and AXA's goals may not always be guaranteed."
+          }
+        }
+      },
+      {
+        "text": "AB experienced some turmoil in 2008/09 when performance across a number of strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Track Record": {
+            "value": "Developing",
+            "explanation": "The past struggles during the GFC indicate a developing track record."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The impact of corporate memory on future decisions introduces moderate execution risk."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The belief in long-term, consistent earnings growth aligns with the strategy's focus on sustainable returns.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            },
+            {
+              "explanation": "The focus on high-quality, growing companies aligns with the strategy's philosophy of sustainable returns.",
+              "source_text": "They look to invest in high quality, growing companies producing superior and sustainable returns over the long term whilst minimizing risk."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive capacity management aligns with the strategy's long-term sustainability goals.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The portfolio construction aligns with the strategy's focus on high-quality stocks with upside potential.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The firm's focus on growth-generating areas aligns with its strategic goals.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The statement reflects a clear investment philosophy centered on earnings growth.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The process of selecting the best ideas from a vetted universe is clearly defined.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's philosophy and process are described as clear and well-structured.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The emphasis on minimizing risk demonstrates a strong risk management approach.",
+              "source_text": "They look to invest in high quality, growing companies producing superior and sustainable returns over the long term whilst minimizing risk."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's experience and long-term collaboration indicate strong capability.",
+              "source_text": "The team is experienced and collegiate and has been working together, following this focused approach, for many years."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's consistent adherence to a focused approach reflects high process discipline.",
+              "source_text": "The team is experienced and collegiate and has been working together, following this focused approach, for many years."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The capacity limit reduces the risk of overextension, lowering execution risk.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        }
+      },
+      "Leadership Strength": {
+        "Business Management": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Mark Phelps' leadership is highlighted as a key strength of the strategy.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "AB's scale and investment in growth areas indicate robust resources.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Team Collaboration": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos due to local focus suggests moderate collaboration challenges.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The risk of silos could impact the execution of a cohesive strategy.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concentrated portfolio increases the impact of individual stock mistakes, raising execution risk.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The impact of corporate memory on future decisions introduces moderate execution risk.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across a number of strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      },
+      "Cost Efficiency": {
+        "Implementation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "Higher fees compared to peers indicate lower cost efficiency.",
+              "source_text": "Fees are optically higher than the median fee within the global equity universe, but we do note that AB is open to negotiating on this and appear to be eager to find fee structures that are aligned."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The willingness to negotiate fees shows some alignment with client interests.",
+              "source_text": "Fees are optically higher than the median fee within the global equity universe, but we do note that AB is open to negotiating on this and appear to be eager to find fee structures that are aligned."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The alignment between AB and AXA's goals may not always be guaranteed.",
+              "source_text": "AB's majority owner is a large listed financial services company. While AB has been able to operate independently from its parent company AXA to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The quality focus mitigates but does not eliminate the risks of concentration.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        }
+      },
+      "Independence Risk": {
+        "Business Management": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The potential loss of independence from AXA poses a significant risk to AB's operations.",
+              "source_text": "AB's majority owner is a large listed financial services company. While AB has been able to operate independently from its parent company AXA to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Business Management": {
+          "value": "Developing",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The past struggles during the GFC indicate a developing track record.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across a number of strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "pdf_file": "AB_2018_CG_Report.pdf",
+  "generation_date": "2025-12-02T17:00:24.687401",
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Team Capability": {
+          "Strong": "Assigned when the text highlights the team's extensive experience, long-standing collaboration, and cohesive nature. Examples include 'experienced and collegiate team' and 'working together for many years.'",
+          "Moderate": "Assigned when there are potential limitations in collaboration, such as regional silos or lack of integration. Examples include 'local focus creates silos.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the process is described as focused, consistent, robust, or disciplined over a long period. Examples include 'following this focused approach for many years' and 'robust and disciplined process.'",
+          "Moderate": "Assigned when the process is described as somewhat structured but lacking full consistency or robustness. No explicit examples observed in the heatmaps."
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when the process or philosophy is explicitly described as clear, compelling, or well-structured. Examples include 'clear and compelling philosophy' and 'well-structured process.'",
+          "Ambiguous": "Assigned when there is evidence of potential ambiguity or lack of integration in the process. Examples include 'to what extent does their local focus create silos?'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the team demonstrates full commitment to a clear philosophy or strategy, aligning with long-term goals. Examples include 'team is fully committed to the philosophy' and 'proactive implementation of capacity limits.'",
+          "Moderate": "Assigned when alignment is present but not fully consistent or when external factors may impact alignment. Examples include 'higher fees may misalign with client expectations.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the process is supported by diligent research, robust modelling, or a vetted universe of high-quality stocks. Examples include 'diligent research' and 'vetted universe of high-quality stocks.'",
+          "Moderate": "Assigned when evidence is present but lacks robustness or depth. No explicit examples observed in the heatmaps."
+        },
+        "Innovation Level": {
+          "Moderate": "Assigned when the process is thoughtful and methodical but not explicitly innovative. Examples include 'detailed modelling process suggests a thoughtful approach.'",
+          "Low": "Assigned when the process lacks differentiation or novelty. No explicit examples observed in the heatmaps."
+        }
+      },
+      "Portfolio Construction": {
+        "Strategic Alignment": {
+          "High": "Assigned when the portfolio reflects the best stock ideas aligned with the strategy's goals, such as maximizing upside potential. Examples include 'best stock ideas from a vetted universe of high-quality stocks.'",
+          "Moderate": "Assigned when alignment is present but not fully consistent or when risks may partially offset alignment. Examples include 'quality focus mitigates some risk but concentrated nature may misalign with diversification goals.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when portfolio decisions are based on a vetted universe of high-quality stocks or other strong evidence. Examples include 'vetted universe of high-quality stocks.'",
+          "Moderate": "Assigned when evidence is present but lacks robustness or depth. No explicit examples observed in the heatmaps."
+        },
+        "Execution Risk": {
+          "Low": "Assigned when risk management practices or portfolio structure reduce execution risks. Examples include 'dedicated risk management functions' and 'focus on larger businesses reduces liquidity risks.'",
+          "High": "Assigned when portfolio structure, such as concentration, increases the impact of individual stock mistakes. Examples include 'concentrated portfolio increases the impact of individual stock mistakes.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the organization demonstrates strong resource allocation, such as dedicated risk management functions. Examples include 'dedicated functions focusing on operational, investment, and counterparty risk.'",
+          "Limited": "Assigned when resource constraints, such as high fees, limit accessibility or effectiveness. Examples include 'higher fees may limit accessibility for some investors.'"
+        },
+        "Risk Management": {
+          "Strong": "Assigned when the organization has dedicated and effective risk management practices. Examples include 'dedicated risk management functions focusing on operational, investment, and counterparty risk.'",
+          "Moderate": "Assigned when risk management practices mitigate some risks but do not fully address all challenges. Examples include 'quality focus mitigates some risk but concentrated nature still poses challenges.'"
+        }
+      },
+      "Implementation": {
+        "Strategic Alignment": {
+          "High": "Assigned when implementation decisions, such as capacity limits, align with long-term strategic goals. Examples include 'proactive implementation of capacity limits.'",
+          "Moderate": "Assigned when alignment is present but not fully consistent, such as when higher fees may misalign with client expectations. Examples include 'higher fees may misalign with client expectations.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when proactive measures, such as capacity limits or low turnover, reduce execution risks. Examples include 'capacity limit reduces the risk of overextension.'",
+          "Moderate": "Assigned when risks are present but partially mitigated by other factors. No explicit examples observed in the heatmaps."
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the strategy demonstrates strong resource management, such as enhanced liquidity profiles. Examples include 'strategy's liquidity profile is enhanced by focus on larger businesses.'",
+          "Limited": "Assigned when resource constraints, such as high fees, limit accessibility or effectiveness. Examples include 'higher fees may limit accessibility for some investors.'"
+        },
+        "Liquidity": {
+          "High": "Assigned when the strategy's structure, such as low turnover or focus on larger businesses, enhances liquidity. Examples include 'tilt toward larger businesses and low turnover enhance liquidity profile.'",
+          "Moderate": "Assigned when liquidity is adequate but not optimal. No explicit examples observed in the heatmaps."
+        },
+        "Cost Efficiency": {
+          "Low": "Assigned when fees are higher than median levels, reducing cost efficiency. Examples include 'fees are optically higher than the median fee within the global equity universe.'"
+        }
+      },
+      "Business Management": {
+        "Clarity of Process": {
+          "Clear": "Assigned when the strategy's philosophy and process are explicitly described as clear and well-structured. Examples include 'clear philosophy and well-structured process.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when leadership or team collaboration is highlighted as a key strength. Examples include 'Mark Phelps' leadership is highlighted as a key strength.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the organization demonstrates strong resource allocation and investment in growth areas. Examples include 'scale and investment in growth areas indicate strong resources.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the organization's focus aligns with long-term strategic goals, such as growth-generating areas. Examples include 'focus on growth-generating areas aligns with strategic goals.'",
+          "Moderate": "Assigned when alignment is present but may be impacted by external factors, such as parent company influence. Examples include 'dependence on parent company could misalign strategic goals.'"
+        },
+        "Leadership": {
+          "Strong": "Assigned when leadership is explicitly highlighted as a key strength. Examples include 'Mark Phelps' leadership is highlighted as a key strength.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Team Capability": {
+          "Moderate": "Assigned when there are potential limitations in collaboration, such as regional silos. Examples include 'local focus creates silos.'"
+        },
+        "Clarity of Process": {
+          "Ambiguous": "Assigned when there is evidence of potential ambiguity or lack of integration in the process. Examples include 'to what extent does their local focus create silos?'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when risks, such as silos, could impact the execution of a cohesive strategy. Examples include 'risk of silos could impact execution of a cohesive strategy.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "High": "Assigned when portfolio structure, such as concentration, increases the impact of individual stock mistakes. Examples include 'concentrated portfolio increases the impact of individual stock mistakes.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when alignment is present but risks, such as concentration, may partially offset it. Examples include 'quality focus mitigates some risk but concentrated nature may misalign with diversification goals.'"
+        },
+        "Risk Management": {
+          "Moderate": "Assigned when risk management practices mitigate some risks but do not fully address all challenges. Examples include 'quality focus mitigates some risk but concentrated nature still poses challenges.'"
+        }
+      },
+      "Implementation": {
+        "Resource Strength": {
+          "Limited": "Assigned when resource constraints, such as high fees, limit accessibility or effectiveness. Examples include 'higher fees may limit accessibility for some investors.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when alignment is present but not fully consistent, such as when higher fees may misalign with client expectations. Examples include 'higher fees may misalign with client expectations.'"
+        },
+        "Cost Efficiency": {
+          "Low": "Assigned when fees are higher than median levels, reducing cost efficiency. Examples include 'fees are optically higher than the median fee within the global equity universe.'"
+        }
+      },
+      "Business Management": {
+        "Execution Risk": {
+          "Moderate": "Assigned when risks, such as loss of independence, introduce uncertainty. Examples include 'potential loss of independence introduces uncertainty and execution risk.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when alignment is present but may be impacted by external factors, such as parent company influence. Examples include 'dependence on parent company could misalign strategic goals.'"
+        },
+        "Governance Risk": {
+          "High": "Assigned when potential interference from a parent company introduces governance risk. Examples include 'potential for interference from parent company introduces governance risk.'"
+        }
+      }
+    }
+  }
+}

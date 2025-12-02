@@ -1,0 +1,496 @@
+{
+  "pdf_file": "AB_168733_422257_AB Global Core Equity - RR 2023 (Maintaining A(W)).pdf",
+  "iteration": 4,
+  "processing_date": "2025-11-21T17:26:12.972139",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text describes a structured and routine process with weekly screens and team discussions, indicating a clear and systematic approach."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation."
+          }
+        }
+      },
+      {
+        "text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "High",
+            "explanation": "Incorporating ESG factors into the discount rate calculation demonstrates an innovative approach to valuation."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The inclusion of ESG factors aligns with modern investment trends and client expectations."
+          }
+        }
+      },
+      {
+        "text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The text highlights the team's experience and long-term collaboration, indicating strong capability."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The team's stability and commitment reduce the risk of execution issues."
+          }
+        }
+      },
+      {
+        "text": "AB formed its Responsible Investment Committee in 2011, comprised of c. 20 senior members from the investment organization, client-facing teams, and Legal Department.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The formation of a dedicated committee with senior members indicates robust resources allocated to responsible investment."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The committee's focus on ESG strategy aligns with the firm's broader investment philosophy."
+          }
+        }
+      },
+      {
+        "text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The text mentions strong infrastructure and checks and balances, indicating robust resources for implementation."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The presence of checks and balances reduces the risk of errors in implementation."
+          }
+        }
+      },
+      {
+        "text": "The portfolio's realized turnover is consistent with the way the team describes their investment approach.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The alignment between realized turnover and the described approach indicates a clear and consistent process."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The consistency in turnover reflects disciplined adherence to the investment strategy."
+          }
+        }
+      },
+      {
+        "text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on stock selection driving alpha aligns with the strategy's stated objectives."
+          },
+          "Risk Management": {
+            "value": "Strong",
+            "explanation": "The emphasis on risk-aware construction indicates strong risk management practices."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The firm's scale and investment in growth areas indicate robust resources."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on growth areas aligns with the firm's long-term objectives."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The reliance on key individuals increases the risk of disruption if they leave."
+          },
+          "Dependence on Key Individuals": {
+            "value": "High",
+            "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating high dependence."
+          }
+        }
+      },
+      {
+        "text": "The underlying metrics within each screen do not appear particularly differentiated.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Low",
+            "explanation": "The lack of differentiation in screening metrics suggests a low level of innovation."
+          },
+          "Uniqueness": {
+            "value": "Common",
+            "explanation": "The text implies that the metrics are not unique, reducing the distinctiveness of the process."
+          }
+        }
+      },
+      {
+        "text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "Concerns about capacity limits introduce moderate execution risk."
+          },
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The concerns about capacity suggest potential limitations in resources."
+          }
+        }
+      },
+      {
+        "text": "The Investment Board makes the final decision on stocks for the portfolio and their associated weights. This has the potential risk of disenfranchising the analysts from the final portfolio, although we have no evidence of this being the case so far.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Team Capability": {
+            "value": "Average",
+            "explanation": "The potential for analysts to feel disenfranchised could impact team dynamics and capability."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The centralized decision-making process introduces a moderate risk of misalignment within the team."
+          }
+        }
+      },
+      {
+        "text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential loss of independence introduces a moderate risk to the firm's operations."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The uncertainty around independence could impact the alignment of the firm's strategy with its goals."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text describes a structured and routine process with weekly screens and team discussions, indicating a clear and systematic approach.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The alignment between realized turnover and the described approach indicates a clear and consistent process.",
+              "source_text": "The portfolio's realized turnover is consistent with the way the team describes their investment approach."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The consistency in turnover reflects disciplined adherence to the investment strategy.",
+              "source_text": "The portfolio's realized turnover is consistent with the way the team describes their investment approach."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Incorporating ESG factors into the discount rate calculation demonstrates an innovative approach to valuation.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The inclusion of ESG factors aligns with modern investment trends and client expectations.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            },
+            {
+              "explanation": "The committee's focus on ESG strategy aligns with the firm's broader investment philosophy.",
+              "source_text": "AB formed its Responsible Investment Committee in 2011, comprised of c. 20 senior members from the investment organization, client-facing teams, and Legal Department."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on stock selection driving alpha aligns with the strategy's stated objectives.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on growth areas aligns with the firm's long-term objectives.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text highlights the team's experience and long-term collaboration, indicating strong capability.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The team's stability and commitment reduce the risk of execution issues.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The presence of checks and balances reduces the risk of errors in implementation.",
+              "source_text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Idea Generation": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The formation of a dedicated committee with senior members indicates robust resources allocated to responsible investment.",
+              "source_text": "AB formed its Responsible Investment Committee in 2011, comprised of c. 20 senior members from the investment organization, client-facing teams, and Legal Department."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text mentions strong infrastructure and checks and balances, indicating robust resources for implementation.",
+              "source_text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The firm's scale and investment in growth areas indicate robust resources.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The emphasis on risk-aware construction indicates strong risk management practices.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The reliance on key individuals increases the risk of disruption if they leave.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Concerns about capacity limits introduce moderate execution risk.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The centralized decision-making process introduces a moderate risk of misalignment within the team.",
+              "source_text": "The Investment Board makes the final decision on stocks for the portfolio and their associated weights. This has the potential risk of disenfranchising the analysts from the final portfolio, although we have no evidence of this being the case so far."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential loss of independence introduces a moderate risk to the firm's operations.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating high dependence.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The lack of differentiation in screening metrics suggests a low level of innovation.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Common",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text implies that the metrics are not unique, reducing the distinctiveness of the process.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concerns about capacity suggest potential limitations in resources.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Portfolio Construction": {
+          "value": "Average",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for analysts to feel disenfranchised could impact team dynamics and capability.",
+              "source_text": "The Investment Board makes the final decision on stocks for the portfolio and their associated weights. This has the potential risk of disenfranchising the analysts from the final portfolio, although we have no evidence of this being the case so far."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The uncertainty around independence could impact the alignment of the firm's strategy with its goals.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

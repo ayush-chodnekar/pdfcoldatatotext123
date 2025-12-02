@@ -1,0 +1,529 @@
+{
+  "pdf_file": "AB_2017_CG_Report.pdf",
+  "processing_date": "2025-12-02T17:00:33.663319",
+  "processing_method": "copper_to_bronze_with_copper_matrix",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the investment approach. This aligns with the matrix criteria for 'Clear' as it references a well-defined and disciplined methodology."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The leadership of Mark Phelps is highlighted as a key strength, suggesting strong team capability. This matches the matrix definition of 'Strong' as it emphasizes capable leadership and guidance."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The alignment between the philosophy, process, and leadership indicates a high level of strategic alignment. This fits the matrix criteria for 'High' as it demonstrates cohesive alignment with long-term goals."
+          }
+        }
+      },
+      {
+        "text": "The team believes that long-term, consistent earnings growth drives long-term investment returns.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable and superior returns, indicating strong strategic alignment. This matches the matrix definition of 'High' as it reflects alignment with long-term goals."
+          },
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "While not groundbreaking, the focus on consistent earnings growth reflects a thoughtful and deliberate approach to investment. This aligns with the matrix criteria for 'Moderate' as it represents an effective but not highly innovative methodology."
+          }
+        }
+      },
+      {
+        "text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The description of the process as 'robust' and 'disciplined' suggests a clear and well-defined methodology. This aligns with the matrix criteria for 'Clear' as it demonstrates a structured and disciplined process."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The emphasis on 'diligent research' indicates a strong foundation of evidence supporting the process. This matches the matrix definition of 'Strong' as it highlights diligent research and robust evidence."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The use of terms like 'disciplined' and 'robust' reflects a high level of process discipline. This aligns with the matrix criteria for 'High' as it emphasizes rigor and discipline in the process."
+          }
+        }
+      },
+      {
+        "text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The proactive establishment of capacity limits reduces the risk of overextension, lowering execution risk. This aligns with the matrix criteria for 'Low' as it demonstrates proactive measures to mitigate risks."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The capacity limits align with the team's focus on maintaining performance quality. This matches the matrix definition of 'High' as it reflects alignment with long-term strategy and goals."
+          }
+        }
+      },
+      {
+        "text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Track Record": {
+            "value": "Strong",
+            "explanation": "The strategy's consistent outperformance of the benchmark demonstrates a strong historical track record. This aligns with the matrix criteria for 'Strong' as it highlights consistent outperformance."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The performance data provides strong evidence of the strategy's effectiveness. This matches the matrix definition of 'Strong' as it emphasizes robust historical evidence."
+          }
+        }
+      },
+      {
+        "text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process of selecting stocks from a vetted universe indicates a clear and structured approach. This aligns with the matrix criteria for 'Clear' as it demonstrates a well-defined methodology."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on high-quality stocks aligns with the team's philosophy of sustainable earnings growth. This matches the matrix definition of 'High' as it reflects alignment with long-term goals."
+          },
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "While the approach is effective, it does not indicate a particularly innovative or unique methodology. This aligns with the matrix criteria for 'Moderate' as it reflects thoughtful but not groundbreaking methodologies."
+          }
+        }
+      },
+      {
+        "text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment objectives. This matches the matrix definition of 'High' as it reflects alignment with long-term goals."
+          },
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The ability to acquire and integrate discrete teams reflects robust organizational resources. This aligns with the matrix criteria for 'Robust' as it highlights effective resource management."
+          },
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "The acquisition of discrete teams reflects a moderate level of innovation in diversifying the business. This matches the matrix definition of 'Moderate' as it represents thoughtful but not groundbreaking strategies."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Average",
+            "explanation": "The potential for silos due to local focus suggests a limitation in team collaboration. This aligns with the matrix criteria for 'Average' as it highlights potential collaboration challenges."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The risk of silos could hinder the team's ability to execute a cohesive global strategy. This matches the matrix definition of 'Moderate' as it reflects risks that could hinder execution."
+          },
+          "Collegiate Culture": {
+            "value": "Moderate",
+            "explanation": "The potential for silos suggests that the collegiate culture may not be fully realized across regions. This aligns with the matrix criteria for 'Moderate' as it highlights partial realization of a collaborative culture."
+          }
+        }
+      },
+      {
+        "text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential pressure to grow beyond capacity limits introduces moderate execution risk. This aligns with the matrix criteria for 'Moderate' as it reflects risks from organizational pressures."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "Pushing for growth beyond capacity could misalign with the team's focus on maintaining quality. This matches the matrix definition of 'Moderate' as it highlights potential misalignment with strategy."
+          }
+        }
+      },
+      {
+        "text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The concentrated portfolio increases the impact of mistakes, raising execution risk. This aligns with the matrix criteria for 'High' as it highlights significant risks from portfolio concentration."
+          },
+          "Risk Mitigation": {
+            "value": "Moderate",
+            "explanation": "The quality focus partially mitigates the risk but does not eliminate it entirely. This matches the matrix definition of 'Moderate' as it reflects partial risk mitigation."
+          }
+        }
+      },
+      {
+        "text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Cost Efficiency": {
+            "value": "Low",
+            "explanation": "The relatively high fees reduce cost efficiency compared to peers. This aligns with the matrix criteria for 'Low' as it highlights high fees as a limiting factor."
+          },
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The high fees may limit accessibility for some investors, indicating constrained resource strength. This matches the matrix definition of 'Limited' as it reflects reduced accessibility."
+          }
+        }
+      },
+      {
+        "text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Track Record": {
+            "value": "Developing",
+            "explanation": "The historical struggles during 2008/09 indicate a developing track record with some past challenges. This aligns with the matrix criteria for 'Developing' as it reflects historical underperformance."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential influence of past turmoil on future decisions introduces moderate execution risk. This matches the matrix definition of 'Moderate' as it highlights risks from historical challenges."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the investment approach. This aligns with the matrix criteria for 'Clear' as it references a well-defined and disciplined methodology.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The description of the process as 'robust' and 'disciplined' suggests a clear and well-defined methodology. This aligns with the matrix criteria for 'Clear' as it demonstrates a structured and disciplined process.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The process of selecting stocks from a vetted universe indicates a clear and structured approach. This aligns with the matrix criteria for 'Clear' as it demonstrates a well-defined methodology.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The leadership of Mark Phelps is highlighted as a key strength, suggesting strong team capability. This matches the matrix definition of 'Strong' as it emphasizes capable leadership and guidance.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The alignment between the philosophy, process, and leadership indicates a high level of strategic alignment. This fits the matrix criteria for 'High' as it demonstrates cohesive alignment with long-term goals.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable and superior returns, indicating strong strategic alignment. This matches the matrix definition of 'High' as it reflects alignment with long-term goals.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The capacity limits align with the team's focus on maintaining performance quality. This matches the matrix definition of 'High' as it reflects alignment with long-term strategy and goals.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on high-quality stocks aligns with the team's philosophy of sustainable earnings growth. This matches the matrix definition of 'High' as it reflects alignment with long-term goals.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment objectives. This matches the matrix definition of 'High' as it reflects alignment with long-term goals.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "While not groundbreaking, the focus on consistent earnings growth reflects a thoughtful and deliberate approach to investment. This aligns with the matrix criteria for 'Moderate' as it represents an effective but not highly innovative methodology.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "While the approach is effective, it does not indicate a particularly innovative or unique methodology. This aligns with the matrix criteria for 'Moderate' as it reflects thoughtful but not groundbreaking methodologies.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The acquisition of discrete teams reflects a moderate level of innovation in diversifying the business. This matches the matrix definition of 'Moderate' as it represents thoughtful but not groundbreaking strategies.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The emphasis on 'diligent research' indicates a strong foundation of evidence supporting the process. This matches the matrix definition of 'Strong' as it highlights diligent research and robust evidence.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The performance data provides strong evidence of the strategy's effectiveness. This matches the matrix definition of 'Strong' as it emphasizes robust historical evidence.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The use of terms like 'disciplined' and 'robust' reflects a high level of process discipline. This aligns with the matrix criteria for 'High' as it emphasizes rigor and discipline in the process.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive establishment of capacity limits reduces the risk of overextension, lowering execution risk. This aligns with the matrix criteria for 'Low' as it demonstrates proactive measures to mitigate risks.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's consistent outperformance of the benchmark demonstrates a strong historical track record. This aligns with the matrix criteria for 'Strong' as it highlights consistent outperformance.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The ability to acquire and integrate discrete teams reflects robust organizational resources. This aligns with the matrix criteria for 'Robust' as it highlights effective resource management.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Average",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos due to local focus suggests a limitation in team collaboration. This aligns with the matrix criteria for 'Average' as it highlights potential collaboration challenges.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The risk of silos could hinder the team's ability to execute a cohesive global strategy. This matches the matrix definition of 'Moderate' as it reflects risks that could hinder execution.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential pressure to grow beyond capacity limits introduces moderate execution risk. This aligns with the matrix criteria for 'Moderate' as it reflects risks from organizational pressures.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concentrated portfolio increases the impact of mistakes, raising execution risk. This aligns with the matrix criteria for 'High' as it highlights significant risks from portfolio concentration.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential influence of past turmoil on future decisions introduces moderate execution risk. This matches the matrix definition of 'Moderate' as it highlights risks from historical challenges.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      },
+      "Collegiate Culture": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos suggests that the collegiate culture may not be fully realized across regions. This aligns with the matrix criteria for 'Moderate' as it highlights partial realization of a collaborative culture.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Pushing for growth beyond capacity could misalign with the team's focus on maintaining quality. This matches the matrix definition of 'Moderate' as it highlights potential misalignment with strategy.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        }
+      },
+      "Risk Mitigation": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The quality focus partially mitigates the risk but does not eliminate it entirely. This matches the matrix definition of 'Moderate' as it reflects partial risk mitigation.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        }
+      },
+      "Cost Efficiency": {
+        "Portfolio Construction": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The relatively high fees reduce cost efficiency compared to peers. This aligns with the matrix criteria for 'Low' as it highlights high fees as a limiting factor.",
+              "source_text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Portfolio Construction": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The high fees may limit accessibility for some investors, indicating constrained resource strength. This matches the matrix definition of 'Limited' as it reflects reduced accessibility.",
+              "source_text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Business Management": {
+          "value": "Developing",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The historical struggles during 2008/09 indicate a developing track record with some past challenges. This aligns with the matrix criteria for 'Developing' as it reflects historical underperformance.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

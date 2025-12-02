@@ -1,0 +1,424 @@
+{
+  "pdf_file": "AB_2017_CG_Report.pdf",
+  "iteration": 4,
+  "processing_date": "2025-12-02T16:59:43.504631",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the approach."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The leadership of Mark Phelps, described as providing strong direction, reflects high team capability."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The strategy's alignment with a clear philosophy and disciplined process suggests strong strategic alignment."
+          }
+        }
+      },
+      {
+        "text": "The small, dedicated regional teams provide strong support, showing a similarly high level of passion and commitment to their approach and displaying a collegiate culture.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The regional teams are described as 'dedicated' and 'passionate,' indicating strong team capability."
+          },
+          "Collegiate Culture": {
+            "value": "High",
+            "explanation": "The mention of a 'collegiate culture' highlights a collaborative and supportive team environment."
+          }
+        }
+      },
+      {
+        "text": "The strategy follows a clear and compelling philosophy that each member of the team is fully committed to.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The philosophy is described as 'clear and compelling,' indicating clarity in the process."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The team's full commitment to the philosophy reflects strong team alignment and capability."
+          }
+        }
+      },
+      {
+        "text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The proactive establishment of capacity limits demonstrates strategic foresight and alignment with long-term goals."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The capacity limit reduces the risk of overextension, lowering execution risk."
+          }
+        }
+      },
+      {
+        "text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Track Record": {
+            "value": "Strong",
+            "explanation": "The strategy's consistent outperformance of the benchmark reflects a strong historical track record."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The performance data over the strategy's full history provides strong evidence of its effectiveness."
+          }
+        }
+      },
+      {
+        "text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process of selecting the 'best stock ideas' from a vetted universe indicates a clear and structured approach."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on high-quality stocks aligns with the team's philosophy and long-term goals."
+          }
+        }
+      },
+      {
+        "text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "The acquisition of discrete teams reflects a moderate level of innovation in diversifying the business."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment goals."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Collegiate Culture": {
+            "value": "Moderate",
+            "explanation": "The potential for silos due to local focus suggests that the collegiate culture may not be fully realized across regions."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The risk of silos could hinder collaboration and execution across regions."
+          }
+        }
+      },
+      {
+        "text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential pressure to grow beyond capacity limits introduces moderate execution risk."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "Pushing for growth beyond capacity could misalign with the team's long-term strategy."
+          }
+        }
+      },
+      {
+        "text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The concentrated portfolio increases the impact of individual stock mistakes, raising execution risk."
+          },
+          "Risk Mitigation": {
+            "value": "Moderate",
+            "explanation": "The quality focus helps mitigate some of the risks associated with concentration."
+          }
+        }
+      },
+      {
+        "text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Track Record": {
+            "value": "Developing",
+            "explanation": "The past struggles during the 2008/09 crisis indicate a developing track record, with lingering concerns about corporate memory."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential influence of past performance issues on future decisions introduces moderate execution risk."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the approach.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The philosophy is described as 'clear and compelling,' indicating clarity in the process.",
+              "source_text": "The strategy follows a clear and compelling philosophy that each member of the team is fully committed to."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The process of selecting the 'best stock ideas' from a vetted universe indicates a clear and structured approach.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The leadership of Mark Phelps, described as providing strong direction, reflects high team capability.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The regional teams are described as 'dedicated' and 'passionate,' indicating strong team capability.",
+              "source_text": "The small, dedicated regional teams provide strong support, showing a similarly high level of passion and commitment to their approach and displaying a collegiate culture."
+            },
+            {
+              "explanation": "The team's full commitment to the philosophy reflects strong team alignment and capability.",
+              "source_text": "The strategy follows a clear and compelling philosophy that each member of the team is fully committed to."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's alignment with a clear philosophy and disciplined process suggests strong strategic alignment.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive establishment of capacity limits demonstrates strategic foresight and alignment with long-term goals.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on high-quality stocks aligns with the team's philosophy and long-term goals.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment goals.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      },
+      "Collegiate Culture": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The mention of a 'collegiate culture' highlights a collaborative and supportive team environment.",
+              "source_text": "The small, dedicated regional teams provide strong support, showing a similarly high level of passion and commitment to their approach and displaying a collegiate culture."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The capacity limit reduces the risk of overextension, lowering execution risk.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's consistent outperformance of the benchmark reflects a strong historical track record.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The performance data over the strategy's full history provides strong evidence of its effectiveness.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The acquisition of discrete teams reflects a moderate level of innovation in diversifying the business.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Collegiate Culture": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos due to local focus suggests that the collegiate culture may not be fully realized across regions.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The risk of silos could hinder collaboration and execution across regions.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential pressure to grow beyond capacity limits introduces moderate execution risk.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concentrated portfolio increases the impact of individual stock mistakes, raising execution risk.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential influence of past performance issues on future decisions introduces moderate execution risk.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Pushing for growth beyond capacity could misalign with the team's long-term strategy.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        }
+      },
+      "Risk Mitigation": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The quality focus helps mitigate some of the risks associated with concentration.",
+              "source_text": "The concentrated nature of the portfolio means that every stock will impact the outcome – mistakes will be felt, although the quality focus of the strategy is likely to mitigate the risk in this aspect of portfolio construction."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Business Management": {
+          "value": "Developing",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The past struggles during the 2008/09 crisis indicate a developing track record, with lingering concerns about corporate memory.",
+              "source_text": "AB experienced some turmoil in 2008/09 when performance across the board for their equity strategies struggled. We believe they have righted the ship but to what extent does corporate memory impact their future decisions?"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

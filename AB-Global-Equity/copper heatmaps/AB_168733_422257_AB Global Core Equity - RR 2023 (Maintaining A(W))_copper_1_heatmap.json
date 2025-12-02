@@ -1,0 +1,454 @@
+{
+  "pdf_file": "AB_168733_422257_AB Global Core Equity - RR 2023 (Maintaining A(W)).pdf",
+  "iteration": 1,
+  "processing_date": "2025-11-21T17:26:12.951149",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text describes a structured and routine screening process followed by team discussions, indicating a clear and systematic approach."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The structured screening aligns with the team's investment philosophy of identifying attractively valued companies."
+          }
+        }
+      },
+      {
+        "text": "AB Core considers environmental, social and corporate governance factors as part of their research framework.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "Incorporating ESG factors into the research framework reflects a forward-thinking approach, though it is increasingly common in the industry."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The integration of ESG factors aligns with the firm's broader commitment to responsible investment."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The text mentions a qualitative assessment and direct impact on discount rates, showing a robust application of ESG considerations."
+          }
+        }
+      },
+      {
+        "text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The text highlights the team's experience and long-term collaboration, indicating strong capability."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The team's commitment to the approach reflects disciplined adherence to their investment strategy."
+          }
+        }
+      },
+      {
+        "text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The text mentions strong infrastructure and checks and balances, indicating robust resources."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The presence of checks and balances reduces the risk of execution errors."
+          }
+        }
+      },
+      {
+        "text": "Portfolios are carefully constructed to avoid benchmark-relative risk, as the team specifically seeks to allow stock decisions to drive outperformance.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on stock-specific risk aligns with the team's philosophy of generating alpha through stock selection."
+          },
+          "Risk Management": {
+            "value": "Strong",
+            "explanation": "Avoiding benchmark-relative risk demonstrates strong attention to risk management."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The firm's scale and investment in growth areas indicate robust resources."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The firm's focus on growth areas aligns with its long-term business strategy."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The reliance on key individuals increases the risk of disruption if they leave."
+          },
+          "Dependence on Key Individuals": {
+            "value": "High",
+            "explanation": "The text explicitly mentions reliance on co-CIOs, indicating high dependence."
+          }
+        }
+      },
+      {
+        "text": "The underlying metrics within each screen do not appear particularly differentiated.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Low",
+            "explanation": "The text notes that the metrics are not particularly differentiated, suggesting low innovation."
+          },
+          "Uniqueness": {
+            "value": "Common",
+            "explanation": "The lack of differentiation implies that the screening metrics are common in the industry."
+          }
+        }
+      },
+      {
+        "text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "Concerns about capacity limits suggest moderate risk in managing assets effectively."
+          },
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The text implies potential limitations in managing capacity effectively."
+          }
+        }
+      },
+      {
+        "text": "Over this period, the strategy's valuation discipline will have created a drag on their returns, although the broader focus on quality would have been a tailwind.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Track Record": {
+            "value": "Developing",
+            "explanation": "The text mentions a drag on returns due to valuation discipline, indicating a developing track record."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The valuation discipline introduces moderate risk of underperformance in certain market conditions."
+          }
+        },
+        "Strategic Alignment": {
+          "value": "Moderate",
+          "explanation": "The valuation discipline aligns with the philosophy but creates challenges in certain market environments."
+        }
+      },
+      {
+        "text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential loss of independence introduces moderate risk to the firm's operations."
+          },
+          "Strategic Alignment": {
+            "value": "Misaligned",
+            "explanation": "The text suggests potential misalignment between the parent company and AB's long-term strategy."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text describes a structured and routine screening process followed by team discussions, indicating a clear and systematic approach.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The weekly routine and team discussions reflect a disciplined approach to idea generation.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            },
+            {
+              "explanation": "The team's commitment to the approach reflects disciplined adherence to their investment strategy.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The structured screening aligns with the team's investment philosophy of identifying attractively valued companies.",
+              "source_text": "The process begins with ten routine screens that are run weekly for the output to be discussed at the team's Monday meeting."
+            },
+            {
+              "explanation": "The integration of ESG factors aligns with the firm's broader commitment to responsible investment.",
+              "source_text": "AB Core considers environmental, social and corporate governance factors as part of their research framework."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on stock-specific risk aligns with the team's philosophy of generating alpha through stock selection.",
+              "source_text": "Portfolios are carefully constructed to avoid benchmark-relative risk, as the team specifically seeks to allow stock decisions to drive outperformance."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The firm's focus on growth areas aligns with its long-term business strategy.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Incorporating ESG factors into the research framework reflects a forward-thinking approach, though it is increasingly common in the industry.",
+              "source_text": "AB Core considers environmental, social and corporate governance factors as part of their research framework."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text mentions a qualitative assessment and direct impact on discount rates, showing a robust application of ESG considerations.",
+              "source_text": "AB Core considers environmental, social and corporate governance factors as part of their research framework."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text highlights the team's experience and long-term collaboration, indicating strong capability.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text mentions strong infrastructure and checks and balances, indicating robust resources.",
+              "source_text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The firm's scale and investment in growth areas indicate robust resources.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The presence of checks and balances reduces the risk of execution errors.",
+              "source_text": "AB’s infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "Avoiding benchmark-relative risk demonstrates strong attention to risk management.",
+              "source_text": "Portfolios are carefully constructed to avoid benchmark-relative risk, as the team specifically seeks to allow stock decisions to drive outperformance."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The reliance on key individuals increases the risk of disruption if they leave.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Concerns about capacity limits suggest moderate risk in managing assets effectively.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The valuation discipline introduces moderate risk of underperformance in certain market conditions.",
+              "source_text": "Over this period, the strategy's valuation discipline will have created a drag on their returns, although the broader focus on quality would have been a tailwind."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential loss of independence introduces moderate risk to the firm's operations.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions reliance on co-CIOs, indicating high dependence.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text notes that the metrics are not particularly differentiated, suggesting low innovation.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Common",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The lack of differentiation implies that the screening metrics are common in the industry.",
+              "source_text": "The underlying metrics within each screen do not appear particularly differentiated."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text implies potential limitations in managing capacity effectively.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Portfolio Construction": {
+          "value": "Developing",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The text mentions a drag on returns due to valuation discipline, indicating a developing track record.",
+              "source_text": "Over this period, the strategy's valuation discipline will have created a drag on their returns, although the broader focus on quality would have been a tailwind."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Business Management": {
+          "value": "Misaligned",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text suggests potential misalignment between the parent company and AB's long-term strategy.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

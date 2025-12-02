@@ -1,0 +1,126 @@
+{
+  "pdf_file": "AB_168733_383526_Global Core Equity Research Report.pdf",
+  "generation_date": "2025-11-21T17:26:36.338716",
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Innovation Level": {
+          "High": "Assigned when explanations reference forward-thinking approaches, such as incorporating ESG factors into financial models or unique methodologies that differentiate the strategy from standard practices. Examples include 'Incorporating ESG factors into discount rate calculations reflects a forward-thinking and innovative approach.'",
+          "Moderate": "Assigned when explanations indicate a unique perspective on market inefficiencies or moderately innovative practices that are not groundbreaking but still distinct. Examples include 'The belief in under-appreciated stability of earnings and cash-flow reflects a moderately innovative perspective on market inefficiencies.'",
+          "Low": "Assigned when explanations suggest reliance on common, undifferentiated methods or lack of innovation in the approach. Examples include 'The underlying metrics within each screen do not appear particularly differentiated.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when explanations indicate strong alignment between the team's philosophy and investment strategy, such as focusing on undervalued opportunities or quality criteria. Examples include 'The focus on stability aligns well with the team's investment philosophy of targeting cash-generative businesses.'",
+          "Moderate": "Assigned when explanations suggest partial alignment or potential conflicts between strategy and philosophy. Examples include 'While the focus on quality aligns with the philosophy, the valuation discipline may conflict with achieving optimal returns in some periods.'",
+          "Misaligned": "Assigned when explanations highlight misalignment between the firm's strategy and its long-term goals or client interests. Examples include 'The ownership structure may lead to misalignment between the firm's long-term goals and short-term pressures from the parent company.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when explanations describe a well-defined, transparent, and structured process. Examples include 'The text explicitly mentions a strict valuation discipline, indicating a well-defined process.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when explanations highlight systematic, disciplined approaches such as routine screens or strict valuation criteria. Examples include 'The use of routine weekly screens and structured team discussions reflects a disciplined approach to idea generation.'"
+        },
+        "Repeatability": {
+          "Scalable": "Assigned when explanations indicate processes that are routine, systematic, and capable of being repeated effectively. Examples include 'The routine nature of the screens suggests a scalable and repeatable process.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when explanations emphasize the team's experience, collaboration, and ability to execute processes effectively. Examples include 'The team's experience and long-standing collaboration indicate strong capability and cohesion.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when explanations suggest stability, commitment, and reduced risk of disruption. Examples include 'The team's stability and commitment reduce execution risk.'"
+        },
+        "Track Record": {
+          "Strong": "Assigned when explanations highlight the team's longevity and consistent execution of their approach. Examples include 'The team's experience and longevity suggest a strong track record in executing their approach.'"
+        },
+        "Uniqueness": {
+          "Distinct": "Assigned when explanations describe distinctive approaches or methodologies that set the strategy apart. Examples include 'The focus on asset-light businesses with high barriers to entry is a distinctive approach.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Strategic Alignment": {
+          "High": "Assigned when explanations indicate alignment between portfolio construction and the team's philosophy, such as stock selection driving alpha. Examples include 'The focus on stock-specific risk aligns with the team's philosophy of generating alpha through stock selection.'"
+        },
+        "Risk Management": {
+          "Strong": "Assigned when explanations highlight robust risk-aware practices in portfolio construction. Examples include 'The risk-aware approach to portfolio construction demonstrates strong risk management practices.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when explanations describe a well-defined and transparent portfolio construction process. Examples include 'The portfolio construction process is explicitly described and well-defined.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when explanations emphasize the team's understanding and effective use of tools like risk models. Examples include 'The team's strong understanding of risk model outputs demonstrates high capability.'"
+        }
+      },
+      "Implementation": {
+        "Resource Strength": {
+          "Robust": "Assigned when explanations indicate sufficient resources and infrastructure to support effective implementation. Examples include 'The dealing team is described as well-resourced and experienced, indicating strong infrastructure.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when explanations suggest thoughtful approaches and reduced risk of poor implementation. Examples include 'The thoughtful approach to best execution reduces the risk of poor implementation.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when explanations describe consistency between realized outcomes and the stated approach. Examples include 'The consistency between realized turnover and the described approach indicates a clear and well-executed process.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when explanations provide robust evidence of process adherence and alignment. Examples include 'The alignment between turnover and the stated approach provides strong evidence of process adherence.'"
+        }
+      },
+      "Business Management": {
+        "Resource Strength": {
+          "Robust": "Assigned when explanations highlight the firm's scale and investment in growth areas. Examples include 'The organization's scale and investment in growth areas indicate robust resource strength.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when explanations indicate alignment between the firm's strategy and long-term goals. Examples include 'The focus on growth areas aligns with the firm's broader strategic goals.'"
+        },
+        "Collaboration Level": {
+          "High": "Assigned when explanations emphasize teamwork and shared resources across research groups. Examples include 'The shared research groups and emphasis on collaboration reflect a high level of teamwork and integration.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when explanations highlight the firm's ability to adequately resource teams and enhance organizational capability. Examples include 'The ability to adequately resource teams reflects strong organizational capability.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Execution Risk": {
+          "High": "Assigned when explanations highlight reliance on key individuals, increasing the risk of disruption. Examples include 'The reliance on key individuals increases the risk of disruption if they were to leave.'"
+        },
+        "Dependence on Key Individuals": {
+          "High": "Assigned when explanations explicitly mention reliance on specific personnel. Examples include 'The text explicitly mentions reliance on the co-CIOs, indicating high dependence on key individuals.'"
+        },
+        "Uniqueness": {
+          "Common": "Assigned when explanations describe metrics or approaches as undifferentiated or standard. Examples include 'The lack of differentiation in screening metrics suggests a common approach.'"
+        },
+        "Innovation Level": {
+          "Low": "Assigned when explanations indicate limited innovation or reliance on common practices. Examples include 'The text highlights that the metrics are not particularly differentiated, indicating low innovation.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "Moderate": "Assigned when explanations highlight risks associated with centralized decision-making or valuation discipline. Examples include 'The centralized decision-making process introduces a moderate level of execution risk.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when explanations suggest partial alignment or potential conflicts between strategy and philosophy. Examples include 'While the focus on quality aligns with the philosophy, the valuation discipline may conflict with achieving optimal returns in some periods.'"
+        },
+        "Team Capability": {
+          "Average": "Assigned when explanations highlight potential risks to team dynamics or cohesion. Examples include 'The potential disenfranchisement of analysts could impact team dynamics and capability.'"
+        }
+      },
+      "Implementation": {
+        "Execution Risk": {
+          "Moderate": "Assigned when explanations highlight concerns about capacity limits or resource management. Examples include 'Concerns about capacity limits suggest a moderate level of execution risk.'"
+        },
+        "Resource Strength": {
+          "Limited": "Assigned when explanations indicate potential limitations in resource management. Examples include 'The concerns about capacity suggest potential limitations in resource management.'"
+        }
+      },
+      "Business Management": {
+        "Execution Risk": {
+          "High": "Assigned when explanations highlight significant risks such as potential loss of independence. Examples include 'The potential loss of independence introduces significant risk to the firm's operations.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when explanations suggest uncertainty or misalignment due to external pressures. Examples include 'The uncertainty around independence could misalign the firm's strategy with its long-term goals.'"
+        }
+      }
+    }
+  }
+}

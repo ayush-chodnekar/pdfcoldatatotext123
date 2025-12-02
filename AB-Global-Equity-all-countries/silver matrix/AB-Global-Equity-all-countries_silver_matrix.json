@@ -1,0 +1,130 @@
+{
+  "strategy_name": "AB-Global-Equity",
+  "generation_date": "2025-11-21T17:27:32.553452",
+  "source_reports": [
+    "AB_168733_341068_Global Core Research Report.pdf",
+    "AB_168733_383526_Global Core Equity Research Report.pdf",
+    "AB_168733_422257_AB Global Core Equity - RR 2023 (Maintaining A(W)).pdf"
+  ],
+  "total_reports": 3,
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Team Capability": {
+          "Strong": "Assigned when the team demonstrates extensive experience, long-standing collaboration, and the ability to execute processes effectively. This includes cohesive teamwork, robust challenge of ideas, and commitment to the approach. Examples include: 'The team of experienced investment professionals has worked together for many years and displays a high level of commitment to the approach.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the process aligns strongly with the team's philosophy, investment strategy, or broader commitments, such as ESG integration or stock selection focus. Examples include: 'The focus on stability aligns well with the team's investment philosophy of targeting cash-generative businesses.'",
+          "Moderate": "Assigned when there is partial alignment or potential conflicts between strategy and philosophy. Examples include: 'While the focus on quality aligns with the philosophy, the valuation discipline may conflict with achieving optimal returns in some periods.'",
+          "Misaligned": "Assigned when there is a clear misalignment between the firm's strategy and its long-term goals or client interests. Examples include: 'The ownership structure may lead to misalignment between the firm's long-term goals and short-term pressures from the parent company.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when the process is described as well-defined, transparent, and structured, with specific details such as regular schedules (e.g., weekly screens, team discussions) or clear methodologies. Examples include: 'The detailed description of how the discount rate is built indicates a clear and systematic process.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the process demonstrates consistent adherence to a structured methodology, such as regular routines, team discussions, or disciplined adherence to investment strategies. Examples include: 'The use of routine weekly screens and structured team discussions reflects a disciplined approach to idea generation.'"
+        },
+        "Innovation Level": {
+          "High": "Assigned when the process demonstrates a novel or proprietary approach, such as the development of unique platforms or methodologies. Examples include: 'Development of a proprietary platform for ESG research sharing and innovative approach to valuation using ESG factors.'",
+          "Moderate": "Assigned when the process includes forward-thinking or modern elements but lacks uniqueness or is becoming common in the industry. Examples include: 'Incorporating ESG factors reflects a forward-thinking approach, though increasingly common in the industry.'",
+          "Low": "Assigned when the process relies on common, undifferentiated, or widely used methods without significant innovation. Examples include: 'Metrics within each screen do not appear particularly differentiated.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the process is supported by robust evidence, such as detailed descriptions, qualitative assessments, or direct impacts on outcomes. Examples include: 'The alignment between stated and realized turnover provides strong evidence of process adherence.'"
+        },
+        "Repeatability": {
+          "Scalable": "Assigned when the process demonstrates consistency and scalability, such as alignment between realized outcomes and the described approach. Examples include: 'The routine nature of the screens suggests a scalable and repeatable process.'"
+        },
+        "Uniqueness": {
+          "Distinct": "Assigned when the process or methodologies are described as distinctive and set the strategy apart. Examples include: 'The focus on asset-light businesses with high barriers to entry is a distinctive approach.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Strategic Alignment": {
+          "High": "Assigned when the portfolio construction aligns strongly with the strategy's objectives, such as focusing on stock selection to drive alpha or avoiding benchmark-relative risk. Examples include: 'The focus on stock-specific risk aligns with the team's philosophy of generating alpha through stock selection.'",
+          "Moderate": "Assigned when there is partial alignment or potential conflicts between strategy and philosophy. Examples include: 'While the focus on quality aligns with the philosophy, the valuation discipline may conflict with achieving optimal returns in some periods.'"
+        },
+        "Risk Management": {
+          "Strong": "Assigned when the portfolio construction demonstrates a strong focus on managing risk, such as risk-aware construction or avoiding benchmark-relative risk. Examples include: 'The risk-aware approach to portfolio construction demonstrates strong risk management.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when the portfolio construction process is well-defined and transparent. Examples include: 'The portfolio construction process is explicitly described and well-defined.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when the team demonstrates a strong understanding and effective use of tools like risk models. Examples include: 'The team's strong understanding of risk model outputs demonstrates high capability.'"
+        }
+      },
+      "Implementation": {
+        "Resource Strength": {
+          "Robust": "Assigned when the firm demonstrates strong infrastructure, checks and balances, or significant resource allocation to implementation. Examples include: 'The dealing team is described as well-resourced and experienced, indicating strong infrastructure.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when the process includes measures to reduce execution errors, such as checks and balances or thoughtful approaches to execution. Examples include: 'The presence of checks and balances reduces the risk of execution errors.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the implementation process demonstrates consistency and adherence to the stated investment approach. Examples include: 'Consistency between realized turnover and described investment approach.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the implementation process is supported by strong evidence of adherence to the stated approach. Examples include: 'The alignment between stated and realized turnover provides strong evidence of process adherence.'"
+        },
+        "Repeatability": {
+          "Scalable": "Assigned when the process demonstrates consistency and scalability, such as alignment between realized outcomes and the described approach. Examples include: 'Consistency between realized turnover and described approach suggests a repeatable and scalable process.'"
+        }
+      },
+      "Business Management": {
+        "Resource Strength": {
+          "Robust": "Assigned when the firm demonstrates significant scale, investment in growth areas, or adequate resourcing of teams. Examples include: 'The firm's scale and investment in growth areas indicate robust resources.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the firm's business strategy aligns with its long-term objectives or growth priorities. Examples include: 'The focus on growth areas aligns with the firm's long-term business strategy.'"
+        },
+        "Collaboration Level": {
+          "High": "Assigned when the firm emphasizes teamwork and shared resources across research groups. Examples include: 'The shared research groups and emphasis on collaboration reflect a high level of teamwork and integration.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when the firm demonstrates the ability to adequately resource teams and enhance organizational capability. Examples include: 'The ability to adequately resource teams reflects strong organizational capability.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Execution Risk": {
+          "High": "Assigned when the process is heavily reliant on key individuals, increasing the risk of disruption if they leave. Examples include: 'The reliance on key individuals increases the risk of disruption if they leave.'"
+        },
+        "Dependence on Key Individuals": {
+          "High": "Assigned when the process explicitly mentions reliance on specific individuals, indicating high dependence. Examples include: 'The strategy remains reliant on the ongoing input from co-CIOs.'"
+        },
+        "Innovation Level": {
+          "Low": "Assigned when the process lacks differentiation or relies on common methods. Examples include: 'Metrics within each screen do not appear particularly differentiated.'"
+        },
+        "Uniqueness": {
+          "Common": "Assigned when the process or metrics are not unique, reducing distinctiveness. Examples include: 'Metrics are not unique, reducing the distinctiveness of the process.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "Moderate": "Assigned when the process introduces moderate risks, such as centralized decision-making or valuation discipline. Examples include: 'The centralized decision-making process introduces a moderate risk of misalignment.'"
+        },
+        "Team Capability": {
+          "Average": "Assigned when there are potential risks to team dynamics or capability, such as disenfranchisement of analysts. Examples include: 'Potential disenfranchisement of analysts could impact team dynamics and capability.'"
+        }
+      },
+      "Implementation": {
+        "Execution Risk": {
+          "Moderate": "Assigned when there are concerns about capacity limits or other factors that introduce moderate risks to execution. Examples include: 'Concerns about capacity limits indicate a moderate level of execution risk.'"
+        },
+        "Resource Strength": {
+          "Limited": "Assigned when there are potential limitations in resources, such as capacity concerns. Examples include: 'Concerns about capacity suggest potential limitations in resources.'"
+        }
+      },
+      "Business Management": {
+        "Execution Risk": {
+          "Moderate": "Assigned when there are risks to the firm's operations, such as potential loss of independence. Examples include: 'Potential loss of independence introduces a moderate risk to execution.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when there is uncertainty or potential misalignment with long-term goals, such as external pressures from a parent company. Examples include: 'Alignment between AB and its parent company may be affected by external pressures.'"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "consolidated": true,
+  "consolidation_type": "Multi-Strategy Master Heatmap",
+  "processing_date": "2025-11-20T17:35:18.823564",
+  "total_strategies_analyzed": 6,
+  "source_strategies": [
+    "STRATEGY",
+    "AB-Global-Equity",
+    "Arrowstreet-World-RR ",
+    "BG-Global-Alpha-RR-Aug24",
+    "D&C-Global_RR_2025",
+    "Ninety One Global Franchise RR v2 FTPR"
+  ],
+  "description": "This is a consolidated Mercer-style heatmap combining attribute patterns across all analyzed investment strategies.",
+  "methodology": {
+    "approach": "Frequency-based consolidation",
+    "threshold": "Lenient - includes attributes appearing in 1+ strategies",
+    "color_coding": "Green (positive/low risk), Yellow (moderate), Red (negative/high risk)",
+    "consistency_scoring": "High (>=50%), Medium (25-50%), Low (<25%)"
+  },
+  "heatmap": {
+    "pros": {
+      "Sentiment": {
+        "Idea Generation": {
+          "value": "Positive",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Portfolio Construction": {
+          "value": "Positive",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Positive",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "Positive",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "Clear",
+          "color": "green",
+          "frequency": 4,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Clear",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Business Management": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "frequency": 5,
+          "consistency": "High"
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Track Record": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 4,
+          "consistency": "High"
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 4,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Repeatability": {
+        "Idea Generation": {
+          "value": "Scalable",
+          "color": "green",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Scalable",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Scalable",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Distinct",
+          "color": "green",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Distinct",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Resource Strength": {
+        "Idea Generation": {
+          "value": "Robust",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Implementation": {
+          "value": "Robust",
+          "color": "green",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "frequency": 5,
+          "consistency": "High"
+        }
+      },
+      "Diversity": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Risk Awareness": {
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Execution Risk": {
+        "Portfolio Construction": {
+          "value": "Low",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "frequency": 6,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Low",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      }
+    },
+    "cons": {
+      "Sentiment": {
+        "Idea Generation": {
+          "value": "Negative",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Portfolio Construction": {
+          "value": "Negative",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Negative",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "Negative",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Portfolio Construction": {
+          "value": "Average",
+          "color": "yellow",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "Average",
+          "color": "yellow",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Ambiguous",
+          "color": "red",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Portfolio Construction": {
+          "value": "Ambiguous",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Ambiguous",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 4,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 3,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 3,
+          "consistency": "High"
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 4,
+          "consistency": "High"
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 5,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 3,
+          "consistency": "High"
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "frequency": 3,
+          "consistency": "High"
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Low",
+          "color": "green",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Uniqueness": {
+        "Idea Generation": {
+          "value": "Common",
+          "color": "red",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Portfolio Construction": {
+          "value": "Common",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Track Record": {
+        "Idea Generation": {
+          "value": "Developing",
+          "color": "yellow",
+          "frequency": 2,
+          "consistency": "Medium"
+        },
+        "Portfolio Construction": {
+          "value": "Developing",
+          "color": "yellow",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Business Management": {
+          "value": "Weak",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "Medium",
+          "color": "yellow",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Portfolio Construction": {
+          "value": "Medium",
+          "color": "yellow",
+          "frequency": 2,
+          "consistency": "Medium"
+        }
+      },
+      "Repeatability": {
+        "Idea Generation": {
+          "value": "Scalable",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Portfolio Construction": {
+          "value": "Scalable",
+          "color": "green",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "One-off",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      },
+      "Resource Strength": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "frequency": 1,
+          "consistency": "Low"
+        },
+        "Implementation": {
+          "value": "Limited",
+          "color": "red",
+          "frequency": 4,
+          "consistency": "High"
+        },
+        "Business Management": {
+          "value": "Limited",
+          "color": "red",
+          "frequency": 4,
+          "consistency": "High"
+        }
+      },
+      "Evidence Strength": {
+        "Implementation": {
+          "value": "Weak",
+          "color": "red",
+          "frequency": 1,
+          "consistency": "Low"
+        }
+      }
+    }
+  },
+  "attribute_summary": {
+    "Idea Generation": {
+      "pros_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Positive",
+          "all_values": {
+            "Positive": 1
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 6,
+          "dominant_value": "Clear",
+          "all_values": {
+            "Clear": 6
+          }
+        },
+        "Team Capability": {
+          "frequency": 6,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 6
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 6,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 6
+          }
+        },
+        "Process Discipline": {
+          "frequency": 5,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 5
+          }
+        },
+        "Track Record": {
+          "frequency": 5,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 5
+          }
+        },
+        "Innovation Level": {
+          "frequency": 4,
+          "dominant_value": "High",
+          "all_values": {
+            "Moderate": 2,
+            "High": 4
+          }
+        },
+        "Evidence Strength": {
+          "frequency": 6,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 6
+          }
+        },
+        "Repeatability": {
+          "frequency": 3,
+          "dominant_value": "Scalable",
+          "all_values": {
+            "Scalable": 3
+          }
+        },
+        "Uniqueness": {
+          "frequency": 3,
+          "dominant_value": "Distinct",
+          "all_values": {
+            "Distinct": 3
+          }
+        },
+        "Resource Strength": {
+          "frequency": 2,
+          "dominant_value": "Robust",
+          "all_values": {
+            "Robust": 2
+          }
+        },
+        "Diversity": {
+          "frequency": 1,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 1
+          }
+        }
+      },
+      "cons_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Negative",
+          "all_values": {
+            "Negative": 1
+          }
+        },
+        "Team Capability": {
+          "frequency": 2,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 2,
+            "Moderate": 1,
+            "Average": 1,
+            "Weak": 1
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 2,
+          "dominant_value": "Ambiguous",
+          "all_values": {
+            "Ambiguous": 2
+          }
+        },
+        "Execution Risk": {
+          "frequency": 4,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "High": 2,
+            "Moderate": 4
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 4,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 4
+          }
+        },
+        "Dependence on Key Individuals": {
+          "frequency": 3,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 3,
+            "Moderate": 1
+          }
+        },
+        "Innovation Level": {
+          "frequency": 2,
+          "dominant_value": "Low",
+          "all_values": {
+            "Low": 2
+          }
+        },
+        "Uniqueness": {
+          "frequency": 2,
+          "dominant_value": "Common",
+          "all_values": {
+            "Common": 2
+          }
+        },
+        "Track Record": {
+          "frequency": 2,
+          "dominant_value": "Developing",
+          "all_values": {
+            "Developing": 2
+          }
+        },
+        "Process Discipline": {
+          "frequency": 1,
+          "dominant_value": "Medium",
+          "all_values": {
+            "Medium": 1
+          }
+        },
+        "Repeatability": {
+          "frequency": 1,
+          "dominant_value": "Scalable",
+          "all_values": {
+            "Scalable": 1
+          }
+        }
+      }
+    },
+    "Portfolio Construction": {
+      "pros_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Positive",
+          "all_values": {
+            "Positive": 1
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 6,
+          "dominant_value": "Clear",
+          "all_values": {
+            "Clear": 6
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 6,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 6
+          }
+        },
+        "Process Discipline": {
+          "frequency": 3,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 3
+          }
+        },
+        "Track Record": {
+          "frequency": 1,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 1
+          }
+        },
+        "Evidence Strength": {
+          "frequency": 3,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 3
+          }
+        },
+        "Innovation Level": {
+          "frequency": 2,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 2,
+            "High": 1
+          }
+        },
+        "Uniqueness": {
+          "frequency": 2,
+          "dominant_value": "Distinct",
+          "all_values": {
+            "Distinct": 2
+          }
+        },
+        "Team Capability": {
+          "frequency": 1,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 1
+          }
+        },
+        "Risk Awareness": {
+          "frequency": 1,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 1
+          }
+        },
+        "Repeatability": {
+          "frequency": 1,
+          "dominant_value": "Scalable",
+          "all_values": {
+            "Scalable": 1
+          }
+        },
+        "Execution Risk": {
+          "frequency": 2,
+          "dominant_value": "Low",
+          "all_values": {
+            "Low": 2
+          }
+        }
+      },
+      "cons_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Negative",
+          "all_values": {
+            "Negative": 1
+          }
+        },
+        "Execution Risk": {
+          "frequency": 3,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 3,
+            "High": 1
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 5,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 5
+          }
+        },
+        "Process Discipline": {
+          "frequency": 2,
+          "dominant_value": "Medium",
+          "all_values": {
+            "Medium": 2
+          }
+        },
+        "Team Capability": {
+          "frequency": 1,
+          "dominant_value": "Average",
+          "all_values": {
+            "Average": 1
+          }
+        },
+        "Track Record": {
+          "frequency": 1,
+          "dominant_value": "Developing",
+          "all_values": {
+            "Developing": 1
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 1,
+          "dominant_value": "Ambiguous",
+          "all_values": {
+            "Ambiguous": 1
+          }
+        },
+        "Resource Strength": {
+          "frequency": 1,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 1
+          }
+        },
+        "Repeatability": {
+          "frequency": 1,
+          "dominant_value": "Scalable",
+          "all_values": {
+            "Scalable": 1
+          }
+        },
+        "Uniqueness": {
+          "frequency": 1,
+          "dominant_value": "Common",
+          "all_values": {
+            "Common": 1
+          }
+        }
+      }
+    },
+    "Implementation": {
+      "pros_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Positive",
+          "all_values": {
+            "Positive": 1
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 6,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 6
+          }
+        },
+        "Process Discipline": {
+          "frequency": 3,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 3
+          }
+        },
+        "Execution Risk": {
+          "frequency": 6,
+          "dominant_value": "Low",
+          "all_values": {
+            "Low": 6
+          }
+        },
+        "Resource Strength": {
+          "frequency": 5,
+          "dominant_value": "Robust",
+          "all_values": {
+            "Robust": 5
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 4,
+          "dominant_value": "Clear",
+          "all_values": {
+            "Clear": 4
+          }
+        },
+        "Repeatability": {
+          "frequency": 2,
+          "dominant_value": "Scalable",
+          "all_values": {
+            "Scalable": 2
+          }
+        },
+        "Evidence Strength": {
+          "frequency": 2,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 2
+          }
+        },
+        "Innovation Level": {
+          "frequency": 1,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 1
+          }
+        },
+        "Team Capability": {
+          "frequency": 2,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 2
+          }
+        }
+      },
+      "cons_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Negative",
+          "all_values": {
+            "Negative": 1
+          }
+        },
+        "Execution Risk": {
+          "frequency": 5,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 5,
+            "High": 1
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 5,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 5
+          }
+        },
+        "Resource Strength": {
+          "frequency": 4,
+          "dominant_value": "Limited",
+          "all_values": {
+            "Limited": 4,
+            "Robust": 1
+          }
+        },
+        "Evidence Strength": {
+          "frequency": 1,
+          "dominant_value": "Weak",
+          "all_values": {
+            "Weak": 1
+          }
+        },
+        "Repeatability": {
+          "frequency": 1,
+          "dominant_value": "One-off",
+          "all_values": {
+            "One-off": 1
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 1,
+          "dominant_value": "Ambiguous",
+          "all_values": {
+            "Ambiguous": 1
+          }
+        }
+      }
+    },
+    "Business Management": {
+      "pros_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Positive",
+          "all_values": {
+            "Positive": 1
+          }
+        },
+        "Team Capability": {
+          "frequency": 6,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 6
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 5,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 5
+          }
+        },
+        "Innovation Level": {
+          "frequency": 2,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 2
+          }
+        },
+        "Resource Strength": {
+          "frequency": 5,
+          "dominant_value": "Robust",
+          "all_values": {
+            "Robust": 5
+          }
+        },
+        "Execution Risk": {
+          "frequency": 1,
+          "dominant_value": "Low",
+          "all_values": {
+            "Low": 1
+          }
+        },
+        "Track Record": {
+          "frequency": 4,
+          "dominant_value": "Strong",
+          "all_values": {
+            "Strong": 4
+          }
+        },
+        "Process Discipline": {
+          "frequency": 2,
+          "dominant_value": "High",
+          "all_values": {
+            "High": 2
+          }
+        },
+        "Clarity of Process": {
+          "frequency": 1,
+          "dominant_value": "Clear",
+          "all_values": {
+            "Clear": 1
+          }
+        }
+      },
+      "cons_attributes": {
+        "Sentiment": {
+          "frequency": 1,
+          "dominant_value": "Negative",
+          "all_values": {
+            "Negative": 1
+          }
+        },
+        "Execution Risk": {
+          "frequency": 3,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 3,
+            "High": 2
+          }
+        },
+        "Strategic Alignment": {
+          "frequency": 3,
+          "dominant_value": "Moderate",
+          "all_values": {
+            "Moderate": 3,
+            "Misaligned": 3
+          }
+        },
+        "Resource Strength": {
+          "frequency": 4,
+          "dominant_value": "Limited",
+          "all_values": {
+            "Limited": 4,
+            "Robust": 1
+          }
+        },
+        "Track Record": {
+          "frequency": 1,
+          "dominant_value": "Weak",
+          "all_values": {
+            "Weak": 1
+          }
+        },
+        "Team Capability": {
+          "frequency": 2,
+          "dominant_value": "Average",
+          "all_values": {
+            "Average": 2
+          }
+        }
+      }
+    }
+  }
+}

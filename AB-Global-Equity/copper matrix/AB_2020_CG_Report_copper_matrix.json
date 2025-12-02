@@ -1,0 +1,113 @@
+{
+  "pdf_file": "AB_2020_CG_Report.pdf",
+  "generation_date": "2025-12-02T17:01:21.755142",
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Clarity of Process": {
+          "Clear": "Assigned when the process is explicitly described as 'clear,' 'well-structured,' 'disciplined,' or 'robust,' and supported by evidence of a defined methodology or philosophy. Examples include 'clear philosophy,' 'well-structured and disciplined process,' and 'robust and disciplined approach.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when the team is described as having strong leadership, dedication, passion, or autonomy. Examples include 'leadership provided by Mark Phelps,' 'dedicated and passionate regional teams,' and 'independence within AB.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when there is a clear alignment between the strategy's philosophy, process, and execution. Examples include 'alignment between philosophy, process, and leadership' and 'independence of the team within AB aligns with the strategy's goals.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the team or organization is described as having access to significant resources or support. Examples include 'affiliation with AB is additive' and 'AB's scale and investment in growth areas.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the process is described as disciplined or committed. Examples include 'commitment to their approach' and 'well-structured and disciplined process.'"
+        },
+        "Collaboration": {
+          "High": "Assigned when the team is described as having a strong collaborative culture. Examples include 'collegiate culture' and 'strong collaboration within the team.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the process is supported by diligent research or a vetted methodology. Examples include 'diligent research' and 'vetted universe of high-quality stocks.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Clarity of Process": {
+          "Clear": "Assigned when the portfolio construction process is described as structured, clear, or based on a vetted methodology. Examples include 'vetted universe of high-quality stocks' and 'clear and structured approach.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the portfolio construction aligns with the strategy's philosophy or objectives. Examples include 'focus on high-quality stocks aligns with the strategy's objectives.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the portfolio construction is supported by strong evidence, such as a vetted universe or quality focus. Examples include 'vetted universe of high-quality stocks' and 'strong evidence supporting portfolio decisions.'"
+        }
+      },
+      "Implementation": {
+        "Innovation Level": {
+          "Moderate": "Assigned when the process demonstrates thoughtful and forward-looking innovation but is not groundbreaking. Examples include 'proactive establishment of capacity limits.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the implementation process is described as disciplined or consistent over time. Examples include 'static capacity limits over many years' and 'disciplined approach to implementation.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when the implementation process reduces risks, such as through low turnover, high liquidity, or capacity limits. Examples include 'low turnover reduces risk' and 'capacity limits reduce the risk of overextension.'"
+        },
+        "Liquidity": {
+          "High": "Assigned when the strategy enhances liquidity through factors such as low turnover or focus on larger businesses. Examples include 'low turnover enhances liquidity' and 'focus on larger businesses enhances liquidity.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the implementation process is supported by significant resources, such as separate dealing teams. Examples include 'separate dealing teams indicate robust resources.'"
+        }
+      },
+      "Business Management": {
+        "Resource Strength": {
+          "Robust": "Assigned when the organization is described as having significant resources or scale. Examples include 'AB's scale and investment in growth areas' and 'presence of specialized research groups.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the organization's strategy aligns with its long-term goals or growth objectives. Examples include 'focus on growth areas aligns with the firm's strategic objectives.'"
+        },
+        "Collaboration": {
+          "High": "Assigned when the organization demonstrates a strong collaborative culture. Examples include 'shared research groups reflect a high level of collaboration.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Team Capability": {
+          "Moderate": "Assigned when there are potential limitations in team collaboration or effectiveness. Examples include 'potential for silos due to local focus.'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when there are risks that could impact the execution of a cohesive strategy. Examples include 'risk of silos could impact execution.'"
+        },
+        "Collaboration": {
+          "Moderate": "Assigned when collaboration is not fully optimized due to factors such as silos. Examples include 'potential for silos suggests collaboration may not be fully optimized.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "High": "Assigned when the portfolio construction increases the risk of negative outcomes, such as through concentration. Examples include 'concentrated portfolio increases the impact of individual stock mistakes.'"
+        },
+        "Risk Mitigation": {
+          "Moderate": "Assigned when there are efforts to mitigate risk, but challenges remain. Examples include 'quality focus mitigates some risks but does not eliminate them.'"
+        },
+        "Risk Management": {
+          "Moderate": "Assigned when risk management efforts are present but not sufficient to address all challenges. Examples include 'quality focus mitigates some risk, but concentrated nature still poses challenges.'"
+        }
+      },
+      "Implementation": {
+        "Resource Strength": {
+          "Limited": "Assigned when there are constraints in resources, such as high fees limiting accessibility. Examples include 'higher fees suggest a limitation in cost competitiveness.'"
+        },
+        "Cost Efficiency": {
+          "Low": "Assigned when costs are higher than peers, reducing efficiency. Examples include 'higher-than-median fees indicate lower cost efficiency.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when there are partial misalignments with client interests or expectations. Examples include 'higher fees may misalign with client cost expectations.'"
+        }
+      },
+      "Business Management": {
+        "Execution Risk": {
+          "Moderate": "Assigned when there are risks related to the organization's independence or operational stability. Examples include 'potential loss of independence introduces moderate execution risk.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when there are uncertainties that could misalign the organization's strategy with its long-term goals. Examples include 'uncertainty around independence could misalign with long-term strategic goals.'"
+        }
+      }
+    }
+  }
+}

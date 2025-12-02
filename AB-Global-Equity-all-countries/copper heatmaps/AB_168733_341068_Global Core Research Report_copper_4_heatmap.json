@@ -1,0 +1,457 @@
+{
+  "pdf_file": "AB_168733_341068_Global Core Research Report.pdf",
+  "iteration": 4,
+  "processing_date": "2025-11-21T17:26:16.554430",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The text highlights the team's extensive experience and long-standing collaboration, which indicates strong team capability."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The mention of 'commitment to the approach' suggests a disciplined adherence to their investment process."
+          }
+        }
+      },
+      {
+        "text": "It is the methodical and detailed due diligence that differentiates the strategy, with each step of the process reflecting a significant amount of thought.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The description of 'methodical and detailed due diligence' indicates a clear and well-defined process."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The emphasis on 'detailed due diligence' reflects a strong foundation of evidence in the strategy."
+          }
+        }
+      },
+      {
+        "text": "The devil's advocate process at the stock-selection stage of the process ensures robust challenge.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "The use of a 'devil's advocate process' is a moderately innovative approach to ensuring robust decision-making."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The ability to challenge ideas effectively suggests a capable and confident team."
+          }
+        }
+      },
+      {
+        "text": "The Global Core equity strategy has been managed according to the same approach since 2001, when David Dalgas took on the role of portfolio manager at BankInvest.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Track Record": {
+            "value": "Strong",
+            "explanation": "The strategy's consistent management since 2001 demonstrates a strong and stable track record."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The long-term adherence to the same approach reflects a high level of strategic alignment."
+          }
+        }
+      },
+      {
+        "text": "AB's infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The mention of 'strong infrastructure' and 'significant levels of checks and balances' indicates robust resources."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The presence of checks and balances reflects a disciplined implementation process."
+          }
+        }
+      },
+      {
+        "text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "Incorporating ESG factors into the discount rate calculation reflects a moderately innovative approach."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The detailed explanation of how the discount rate is built indicates a clear and transparent process."
+          }
+        }
+      },
+      {
+        "text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on stock selection driving alpha aligns well with the strategy's objectives."
+          },
+          "Risk Management": {
+            "value": "Strong",
+            "explanation": "The 'risk-aware portfolio construction' highlights strong risk management practices."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The organization's scale and investment in growth areas indicate robust resource strength."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on investing in growth areas demonstrates strong strategic alignment with business objectives."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The reliance on key individuals introduces high execution risk if they were to leave."
+          },
+          "Dependence on Key Individuals": {
+            "value": "High",
+            "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating high dependence on key individuals."
+          }
+        }
+      },
+      {
+        "text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "Concerns about capacity limits suggest moderate execution risk."
+          },
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The mention of capacity concerns indicates potential limitations in resource strength."
+          }
+        }
+      },
+      {
+        "text": "Given the team's approach, we would expect the strategy to struggle in strong beta rallies or momentum driven markets.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The strategy's potential underperformance in certain market conditions introduces moderate execution risk."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The strategy's alignment with market conditions is not optimal in momentum-driven markets."
+          }
+        }
+      },
+      {
+        "text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The potential loss of independence introduces high execution risk."
+          },
+          "Strategic Alignment": {
+            "value": "Misaligned",
+            "explanation": "The uncertainty about independence suggests potential misalignment with long-term strategic goals."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text highlights the team's extensive experience and long-standing collaboration, which indicates strong team capability.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            },
+            {
+              "explanation": "The ability to challenge ideas effectively suggests a capable and confident team.",
+              "source_text": "The devil's advocate process at the stock-selection stage of the process ensures robust challenge."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The mention of 'commitment to the approach' suggests a disciplined adherence to their investment process.",
+              "source_text": "The team of experienced investment professionals has worked together for many years and display a high level of commitment to the approach."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The presence of checks and balances reflects a disciplined implementation process.",
+              "source_text": "AB's infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        }
+      },
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The description of 'methodical and detailed due diligence' indicates a clear and well-defined process.",
+              "source_text": "It is the methodical and detailed due diligence that differentiates the strategy, with each step of the process reflecting a significant amount of thought."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The detailed explanation of how the discount rate is built indicates a clear and transparent process.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The emphasis on 'detailed due diligence' reflects a strong foundation of evidence in the strategy.",
+              "source_text": "It is the methodical and detailed due diligence that differentiates the strategy, with each step of the process reflecting a significant amount of thought."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The use of a 'devil's advocate process' is a moderately innovative approach to ensuring robust decision-making.",
+              "source_text": "The devil's advocate process at the stock-selection stage of the process ensures robust challenge."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Incorporating ESG factors into the discount rate calculation reflects a moderately innovative approach.",
+              "source_text": "The team builds up the discount rate starting with the risk-free rate and adjusting for inflation, country, liquidity and financial risks, as well as ESG factors."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's consistent management since 2001 demonstrates a strong and stable track record.",
+              "source_text": "The Global Core equity strategy has been managed according to the same approach since 2001, when David Dalgas took on the role of portfolio manager at BankInvest."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The long-term adherence to the same approach reflects a high level of strategic alignment.",
+              "source_text": "The Global Core equity strategy has been managed according to the same approach since 2001, when David Dalgas took on the role of portfolio manager at BankInvest."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on stock selection driving alpha aligns well with the strategy's objectives.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on investing in growth areas demonstrates strong strategic alignment with business objectives.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The mention of 'strong infrastructure' and 'significant levels of checks and balances' indicates robust resources.",
+              "source_text": "AB's infrastructure appears strong and seems to have significant levels of checks and balances in place to ensure effective implementation of investment decisions."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The organization's scale and investment in growth areas indicate robust resource strength.",
+              "source_text": "AB is a large international organization that has the scale to adequately resource its investment teams and invests in the areas they believe will generate growth for the business."
+            }
+          ]
+        }
+      },
+      "Risk Management": {
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The 'risk-aware portfolio construction' highlights strong risk management practices.",
+              "source_text": "This strategy is appealing in its risk-aware portfolio construction that seeks to have stock selection drive alpha."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The reliance on key individuals introduces high execution risk if they were to leave.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "Concerns about capacity limits suggest moderate execution risk.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The strategy's potential underperformance in certain market conditions introduces moderate execution risk.",
+              "source_text": "Given the team's approach, we would expect the strategy to struggle in strong beta rallies or momentum driven markets."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The potential loss of independence introduces high execution risk.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions reliance on the co-CIOs, indicating high dependence on key individuals.",
+              "source_text": "The strategy remains reliant on the ongoing input from co-CIOs, David Dalgas and Klaus Ingemann. If any of the two were to leave, we would reassess the rating."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Implementation": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The mention of capacity concerns indicates potential limitations in resource strength.",
+              "source_text": "The consideration of capacity and a reasonable capacity limit were among the areas of concerns we had when the team was acquired by AB."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The strategy's alignment with market conditions is not optimal in momentum-driven markets.",
+              "source_text": "Given the team's approach, we would expect the strategy to struggle in strong beta rallies or momentum driven markets."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Misaligned",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The uncertainty about independence suggests potential misalignment with long-term strategic goals.",
+              "source_text": "AB's majority owner is a listed financial services company. While AB has been able to operate independently from its parent company EQH to date, there is no guarantee this independence will continue to be enjoyed."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

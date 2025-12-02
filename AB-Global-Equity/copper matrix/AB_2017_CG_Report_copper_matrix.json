@@ -1,0 +1,116 @@
+{
+  "pdf_file": "AB_2017_CG_Report.pdf",
+  "generation_date": "2025-12-02T17:00:08.179321",
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Clarity of Process": {
+          "Clear": "Assigned when the process is explicitly described as 'clear,' 'well-structured,' 'disciplined,' or 'compelling,' and when it is supported by evidence of a robust methodology or philosophy. Examples include references to 'clear philosophy,' 'well-structured and disciplined process,' or 'robust and disciplined methodology.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when the team or leadership is described as providing strong guidance, being highly capable, or demonstrating full commitment to the strategy. Examples include references to 'leadership provided by Mark Phelps,' 'dedicated and passionate regional teams,' or 'full commitment to the philosophy.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the strategy's philosophy, process, and leadership are described as being cohesively aligned with long-term goals or sustainable returns. Examples include 'alignment between philosophy, process, and leadership' or 'focus on sustainable and superior returns.'"
+        },
+        "Innovation Level": {
+          "Moderate": "Assigned when the approach reflects thoughtful and deliberate methodologies that are effective but not groundbreaking. Examples include 'focus on consistent earnings growth' or 'acquisition of discrete teams for diversification.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the process or strategy is supported by diligent research, historical performance data, or other strong evidence. Examples include 'diligent research' or 'historical performance data supporting effectiveness.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the process is described as 'disciplined,' 'robust,' or demonstrating a high level of rigor. Examples include 'robust and disciplined process' or 'emphasis on diligence and discipline.'"
+        },
+        "Collegiate Culture": {
+          "High": "Assigned when the team environment is described as collaborative, supportive, or demonstrating a strong collegiate culture. Examples include 'dedicated and passionate regional teams' or 'collegiate culture.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Clarity of Process": {
+          "Clear": "Assigned when the portfolio construction process is described as clear, structured, or well-defined. Examples include 'selecting the best stock ideas from a vetted universe' or 'clear and structured approach.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when the portfolio's focus aligns with the team's philosophy or long-term goals, such as sustainable earnings growth or high-quality stocks. Examples include 'focus on high-quality stocks' or 'alignment with sustainable earnings growth.'"
+        },
+        "Innovation Level": {
+          "Moderate": "Assigned when the approach demonstrates thoughtful methodologies but lacks significant innovation. Examples include 'effective but not particularly innovative methodology.'"
+        },
+        "Repeatability": {
+          "Scalable": "Assigned when the process is consistently applied and demonstrates scalability. Examples include 'consistent application of philosophy' or 'process is repeatable and scalable.'"
+        }
+      },
+      "Implementation": {
+        "Execution Risk": {
+          "Low": "Assigned when proactive measures, such as capacity limits, are in place to reduce risks of overextension or other execution challenges. Examples include 'proactive establishment of capacity limits' or 'reduces risk of overextension.'"
+        },
+        "Strategic Alignment": {
+          "High": "Assigned when implementation decisions align with the team's long-term strategy or focus on maintaining quality. Examples include 'capacity limits align with focus on maintaining performance quality.'"
+        },
+        "Track Record": {
+          "Strong": "Assigned when the strategy demonstrates consistent outperformance of benchmarks, even after fees. Examples include 'consistent outperformance of the benchmark' or 'strong historical track record.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when historical performance data or other evidence strongly supports the strategy's effectiveness. Examples include 'performance data provides strong evidence of effectiveness.'"
+        }
+      },
+      "Business Management": {
+        "Strategic Alignment": {
+          "High": "Assigned when business decisions, such as acquisitions, align with the firm's investment objectives or goals. Examples include 'selectivity in acquisitions ensures alignment with investment objectives.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the firm demonstrates the ability to acquire and integrate teams or manage resources effectively. Examples include 'ability to acquire and integrate discrete teams' or 'robust organizational resources.'"
+        },
+        "Innovation Level": {
+          "Moderate": "Assigned when business strategies, such as diversification through acquisitions, reflect moderate innovation. Examples include 'acquisition of discrete teams reflects moderate innovation.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Team Capability": {
+          "Average": "Assigned when there are potential limitations in team collaboration or capability, such as risks of silos due to local focus. Examples include 'potential for silos due to local focus' or 'limitation in team collaboration.'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when risks, such as silos or lack of collaboration, could hinder effective execution of the strategy. Examples include 'risk of silos could hinder execution' or 'increases execution risk.'"
+        },
+        "Collegiate Culture": {
+          "Moderate": "Assigned when the collegiate culture is not fully realized across regions, potentially due to silos or local focus. Examples include 'potential for silos suggests collegiate culture may not be fully realized.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "High": "Assigned when the portfolio's structure, such as concentration, significantly increases the impact of mistakes. Examples include 'concentrated portfolio increases impact of mistakes.'"
+        },
+        "Risk Mitigation": {
+          "Moderate": "Assigned when risk mitigation measures, such as quality focus, partially address but do not eliminate risks. Examples include 'quality focus mitigates some risks but does not eliminate them.'"
+        },
+        "Cost Efficiency": {
+          "Low": "Assigned when fees are relatively high compared to peers, reducing cost efficiency. Examples include 'fees are toward the higher end of the universe range.'"
+        },
+        "Resource Strength": {
+          "Limited": "Assigned when high fees or other factors limit accessibility or resource strength. Examples include 'high fees may limit accessibility for some investors.'"
+        }
+      },
+      "Implementation": {
+        "Execution Risk": {
+          "Moderate": "Assigned when potential pressures, such as organizational growth demands, introduce moderate risks. Examples include 'pressure to grow beyond capacity limits introduces moderate risk.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when implementation decisions, such as exceeding capacity limits, could misalign with the team's strategy. Examples include 'pushing for growth beyond capacity could misalign with strategy.'"
+        }
+      },
+      "Business Management": {
+        "Track Record": {
+          "Developing": "Assigned when historical challenges, such as underperformance during the financial crisis, indicate a developing track record. Examples include 'historical struggles during 2008/09 indicate a developing track record.'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when past challenges or leadership interference could impact future decisions, introducing moderate risks. Examples include 'potential influence of past turmoil on future decisions.'"
+        },
+        "Team Capability": {
+          "Average": "Assigned when leadership interference or other factors could impact team autonomy and capability. Examples include 'history of leadership interference could impact team capability.'"
+        }
+      }
+    }
+  }
+}

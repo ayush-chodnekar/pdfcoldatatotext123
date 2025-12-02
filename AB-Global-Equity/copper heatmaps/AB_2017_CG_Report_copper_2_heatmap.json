@@ -1,0 +1,467 @@
+{
+  "pdf_file": "AB_2017_CG_Report.pdf",
+  "iteration": 2,
+  "processing_date": "2025-12-02T16:59:43.489085",
+  "attributes": {
+    "pros": [
+      {
+        "text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the investment approach."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The leadership of Mark Phelps is highlighted as a key strength, suggesting strong team capability."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The alignment between the philosophy, process, and leadership indicates a high level of strategic alignment."
+          }
+        }
+      },
+      {
+        "text": "The team believes that long-term, consistent earnings growth drives long-term investment returns.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable returns, indicating strong strategic alignment."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The emphasis on long-term earnings growth is a well-supported investment principle, suggesting strong evidence strength."
+          }
+        }
+      },
+      {
+        "text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The description of the process as 'robust' and 'disciplined' indicates a high level of process discipline."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process is described as helping the team build a 'deep understanding of businesses,' which implies clarity in execution."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The diligent research mentioned supports the robustness of the process, indicating strong evidence strength."
+          }
+        }
+      },
+      {
+        "text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The proactive implementation of capacity limits aligns with the team's long-term strategy, indicating high strategic alignment."
+          },
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The proactive capacity management reduces the risk of overextension, suggesting low execution risk."
+          }
+        }
+      },
+      {
+        "text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Track Record": {
+            "value": "Strong",
+            "explanation": "The strategy's consistent outperformance of the benchmark indicates a strong track record."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The historical performance data provides strong evidence of the strategy's effectiveness."
+          }
+        }
+      },
+      {
+        "text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process of selecting the best stock ideas from a vetted universe indicates a clear and structured approach."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on high-quality stocks with attractive upside potential aligns with the team's investment philosophy."
+          }
+        }
+      },
+      {
+        "text": "The portfolio's characteristics and style factor exposures over time have persistently reflected the philosophy of the team, with strong tilts to quality and sustainable earnings growth.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The persistent alignment of portfolio characteristics with the team's philosophy indicates high strategic alignment."
+          },
+          "Repeatability": {
+            "value": "Scalable",
+            "explanation": "The consistent application of the philosophy suggests the process is repeatable and scalable."
+          }
+        }
+      },
+      {
+        "text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Innovation Level": {
+            "value": "Moderate",
+            "explanation": "The acquisition of discrete teams represents a moderate level of innovation in diversifying the business."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment objectives."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Team Capability": {
+            "value": "Average",
+            "explanation": "The potential for silos due to local focus suggests a limitation in team collaboration, impacting overall capability."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The risk of silos could hinder the effective execution of the strategy, indicating moderate execution risk."
+          }
+        }
+      },
+      {
+        "text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The potential pressure to grow beyond capacity limits introduces a moderate level of execution risk."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The concern about growth pressure suggests a potential misalignment with the team's stated capacity strategy."
+          }
+        }
+      },
+      {
+        "text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Limited",
+            "explanation": "The high fees may limit accessibility for some investors, indicating constrained resource strength."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The higher fees could be seen as misaligned with broader investor expectations for cost efficiency."
+          }
+        }
+      },
+      {
+        "text": "Fay has removed portfolio managers in the past when they have not conformed to her perspective. Will she or other senior leadership interfere in the management of strategies again?",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The potential for leadership interference introduces a high level of execution risk."
+          },
+          "Team Capability": {
+            "value": "Average",
+            "explanation": "The history of leadership interference could impact team autonomy and capability."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The text explicitly mentions a 'clear philosophy' and a 'well-structured and disciplined process,' indicating clarity in the investment approach.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The process is described as helping the team build a 'deep understanding of businesses,' which implies clarity in execution.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The process of selecting the best stock ideas from a vetted universe indicates a clear and structured approach.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The leadership of Mark Phelps is highlighted as a key strength, suggesting strong team capability.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The alignment between the philosophy, process, and leadership indicates a high level of strategic alignment.",
+              "source_text": "The appeal of this strategy rests on the clear philosophy, the well-structured and disciplined process, and the leadership provided by Mark Phelps as portfolio manager."
+            },
+            {
+              "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable returns, indicating strong strategic alignment.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive implementation of capacity limits aligns with the team's long-term strategy, indicating high strategic alignment.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on high-quality stocks with attractive upside potential aligns with the team's investment philosophy.",
+              "source_text": "Portfolios reflect the best stock ideas from across the regions that are displaying the most attractive upside potential within the previously vetted universe of high quality stocks."
+            },
+            {
+              "explanation": "The persistent alignment of portfolio characteristics with the team's philosophy indicates high strategic alignment.",
+              "source_text": "The portfolio's characteristics and style factor exposures over time have persistently reflected the philosophy of the team, with strong tilts to quality and sustainable earnings growth."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The selectivity in acquisitions ensures alignment with the firm's investment objectives.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The emphasis on long-term earnings growth is a well-supported investment principle, suggesting strong evidence strength.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns."
+            },
+            {
+              "explanation": "The diligent research mentioned supports the robustness of the process, indicating strong evidence strength.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The historical performance data provides strong evidence of the strategy's effectiveness.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The description of the process as 'robust' and 'disciplined' indicates a high level of process discipline.",
+              "source_text": "The process is robust, disciplined and helps the team build a deep understanding of businesses through diligent research."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive capacity management reduces the risk of overextension, suggesting low execution risk.",
+              "source_text": "Despite assets being at low levels for the Concentrated Global Growth strategy, the capacity limit has been in place for some time. We are impressed by the pro-active thinking of the team in this respect."
+            }
+          ]
+        }
+      },
+      "Track Record": {
+        "Implementation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The strategy's consistent outperformance of the benchmark indicates a strong track record.",
+              "source_text": "Over its full history, AB's concentrated global equity strategy has outperformed the benchmark, even on a net of fees basis."
+            }
+          ]
+        }
+      },
+      "Repeatability": {
+        "Portfolio Construction": {
+          "value": "Scalable",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The consistent application of the philosophy suggests the process is repeatable and scalable.",
+              "source_text": "The portfolio's characteristics and style factor exposures over time have persistently reflected the philosophy of the team, with strong tilts to quality and sustainable earnings growth."
+            }
+          ]
+        }
+      },
+      "Innovation Level": {
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The acquisition of discrete teams represents a moderate level of innovation in diversifying the business.",
+              "source_text": "The firm has committed to diversifying their business from the historical value and growth teams through the acquisition of discrete teams. There seems to be selectivity in doing so to ensure such acquisitions make investment sense."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Average",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos due to local focus suggests a limitation in team collaboration, impacting overall capability.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Average",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The history of leadership interference could impact team autonomy and capability.",
+              "source_text": "Fay has removed portfolio managers in the past when they have not conformed to her perspective. Will she or other senior leadership interfere in the management of strategies again?"
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The risk of silos could hinder the effective execution of the strategy, indicating moderate execution risk.",
+              "source_text": "Although we believe the regional teams collegiate in nature, to what extent does their local focus create silos?"
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential pressure to grow beyond capacity limits introduces a moderate level of execution risk.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The potential for leadership interference introduces a high level of execution risk.",
+              "source_text": "Fay has removed portfolio managers in the past when they have not conformed to her perspective. Will she or other senior leadership interfere in the management of strategies again?"
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The concern about growth pressure suggests a potential misalignment with the team's stated capacity strategy.",
+              "source_text": "AB is a large organization and we wonder the extent to which they might push this team for growth beyond their stated capacity limit."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The higher fees could be seen as misaligned with broader investor expectations for cost efficiency.",
+              "source_text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Portfolio Construction": {
+          "value": "Limited",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The high fees may limit accessibility for some investors, indicating constrained resource strength.",
+              "source_text": "Fees for separate accounts are on a sliding scale, starting at 90 bps. We note that this is toward the higher end of the universe range."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

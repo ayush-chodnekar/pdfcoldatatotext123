@@ -1,0 +1,472 @@
+{
+  "strategy_name": "AB-Global-Equity",
+  "processing_date": "2025-12-02T17:02:25.137240",
+  "processing_method": "silver_with_matrix",
+  "source_reports": [
+    "AB_2017_CG_Report.pdf",
+    "AB_2018_CG_Report.pdf",
+    "AB_2019_CG_Report.pdf",
+    "AB_2020_CG_Report.pdf",
+    "AB_2022_CG_Report.pdf"
+  ],
+  "total_reports": 5,
+  "attributes": {
+    "pros": [
+      {
+        "text": "The strategy is built on a clear philosophy, a well-structured and disciplined process, and strong leadership, which collectively drive its appeal.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "Across multiple reports, the text consistently mentions a 'clear philosophy' and a 'well-structured and disciplined process,' which, according to the silver_matrix, indicates Clear clarity of process because it reflects a structured and transparent methodology."
+          },
+          "Team Capability": {
+            "value": "Strong",
+            "explanation": "The leadership of Mark Phelps and the team's experience and collaboration are highlighted across reports, indicating Strong team capability as defined by the silver_matrix, which emphasizes capable leadership and long-standing collaboration."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The alignment between the strategy's philosophy, process, and leadership is consistently emphasized across reports, indicating High strategic alignment as per the silver_matrix, which requires cohesive alignment with long-term goals."
+          }
+        }
+      },
+      {
+        "text": "The team believes that long-term, consistent earnings growth drives long-term investment returns, reflecting a clear and focused investment philosophy.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable and superior returns, which, according to the silver_matrix, indicates High strategic alignment because it reflects alignment with long-term goals."
+          },
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The focus on long-term earnings growth reflects a structured and well-defined investment philosophy, which, according to the silver_matrix, indicates Clear clarity of process."
+          }
+        }
+      },
+      {
+        "text": "The process is robust, disciplined, and supported by diligent research, helping the team build a deep understanding of businesses.",
+        "type": "Pro",
+        "section": "Idea Generation",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process is described as 'robust' and 'disciplined' across reports, which, according to the silver_matrix, indicates Clear clarity of process because it demonstrates a structured and disciplined methodology."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The emphasis on 'diligent research' and the use of specific metrics across reports indicate Strong evidence strength, as defined by the silver_matrix, which requires robust evidence-based approaches."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The consistent description of the process as 'disciplined' and 'robust' across reports reflects High process discipline, as defined by the silver_matrix, which emphasizes rigor and consistency."
+          }
+        }
+      },
+      {
+        "text": "Portfolios reflect the best stock ideas from across regions, selected from a vetted universe of high-quality stocks with attractive upside potential.",
+        "type": "Pro",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Clarity of Process": {
+            "value": "Clear",
+            "explanation": "The process of selecting stocks from a vetted universe is consistently described as clear and structured across reports, which, according to the silver_matrix, indicates Clear clarity of process."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on high-quality stocks aligns with the strategy's philosophy and objectives, which, according to the silver_matrix, indicates High strategic alignment."
+          },
+          "Evidence Strength": {
+            "value": "Strong",
+            "explanation": "The use of a vetted universe and focus on quality stocks provide Strong evidence strength, as defined by the silver_matrix, which emphasizes robust evidence supporting portfolio decisions."
+          }
+        }
+      },
+      {
+        "text": "The team has implemented proactive capacity limits and maintains low turnover, enhancing liquidity and reducing execution risk.",
+        "type": "Pro",
+        "section": "Implementation",
+        "attributes": {
+          "Execution Risk": {
+            "value": "Low",
+            "explanation": "The proactive establishment of capacity limits and low turnover reduce the risk of overextension, which, according to the silver_matrix, indicates Low execution risk."
+          },
+          "Liquidity": {
+            "value": "High",
+            "explanation": "The focus on larger businesses and low turnover enhances liquidity, which, according to the silver_matrix, indicates High liquidity."
+          },
+          "Process Discipline": {
+            "value": "High",
+            "explanation": "The maintenance of static capacity limits over many years reflects High process discipline, as defined by the silver_matrix, which emphasizes consistency and rigor."
+          }
+        }
+      },
+      {
+        "text": "AB is a large international organization with robust resources and a focus on investing in growth areas, aligning with its long-term strategic objectives.",
+        "type": "Pro",
+        "section": "Business Management",
+        "attributes": {
+          "Resource Strength": {
+            "value": "Robust",
+            "explanation": "The organization's scale and investment in growth areas demonstrate Robust resource strength, as defined by the silver_matrix, which emphasizes strong resource allocation."
+          },
+          "Strategic Alignment": {
+            "value": "High",
+            "explanation": "The focus on growth areas aligns with the firm's long-term strategic objectives, which, according to the silver_matrix, indicates High strategic alignment."
+          }
+        }
+      }
+    ],
+    "cons": [
+      {
+        "text": "The regional teams' local focus may create silos, potentially hindering collaboration and execution of a cohesive strategy.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Collaboration": {
+            "value": "Moderate",
+            "explanation": "The potential for silos due to local focus suggests that collaboration may not be fully optimized, which, according to the silver_matrix, indicates Moderate collaboration."
+          },
+          "Execution Risk": {
+            "value": "Moderate",
+            "explanation": "The risk of silos could hinder the execution of a cohesive strategy, which, according to the silver_matrix, indicates Moderate execution risk."
+          }
+        }
+      },
+      {
+        "text": "The concentrated nature of the portfolio increases the impact of individual stock mistakes, raising execution risk despite a quality focus.",
+        "type": "Con",
+        "section": "Portfolio Construction",
+        "attributes": {
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The concentrated portfolio increases the impact of mistakes, which, according to the silver_matrix, indicates High execution risk."
+          },
+          "Risk Mitigation": {
+            "value": "Moderate",
+            "explanation": "The quality focus partially mitigates risks but does not eliminate them, which, according to the silver_matrix, indicates Moderate risk mitigation."
+          }
+        }
+      },
+      {
+        "text": "Fees are higher than the median within the global equity universe, reducing cost efficiency and potentially misaligning with client expectations.",
+        "type": "Con",
+        "section": "Implementation",
+        "attributes": {
+          "Cost Efficiency": {
+            "value": "Low",
+            "explanation": "The higher-than-median fees indicate Low cost efficiency, as defined by the silver_matrix."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The willingness to negotiate fees shows some alignment with client interests, but the high fees remain a concern, which, according to the silver_matrix, indicates Moderate strategic alignment."
+          }
+        }
+      },
+      {
+        "text": "The potential loss of independence from its parent company introduces governance and execution risks, impacting strategic alignment.",
+        "type": "Con",
+        "section": "Business Management",
+        "attributes": {
+          "Governance Risk": {
+            "value": "High",
+            "explanation": "The potential for interference from the parent company introduces High governance risk, as defined by the silver_matrix."
+          },
+          "Strategic Alignment": {
+            "value": "Moderate",
+            "explanation": "The uncertainty about independence affects alignment with long-term strategic goals, which, according to the silver_matrix, indicates Moderate strategic alignment."
+          }
+        }
+      },
+      {
+        "text": "The strategy's success appears heavily dependent on key individuals, increasing key person risk.",
+        "type": "Con",
+        "section": "Idea Generation",
+        "attributes": {
+          "Dependence on Key Individuals": {
+            "value": "High",
+            "explanation": "The reliance on specific individuals, such as Chakrabarti, introduces High dependence on key individuals, as defined by the silver_matrix."
+          },
+          "Execution Risk": {
+            "value": "High",
+            "explanation": "The reliance on key individuals increases execution risk, which, according to the silver_matrix, indicates High execution risk."
+          }
+        }
+      }
+    ]
+  },
+  "heatmap": {
+    "pros": {
+      "Clarity of Process": {
+        "Idea Generation": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "Across multiple reports, the text consistently mentions a 'clear philosophy' and a 'well-structured and disciplined process,' which, according to the silver_matrix, indicates Clear clarity of process because it reflects a structured and transparent methodology.",
+              "source_text": "The strategy is built on a clear philosophy, a well-structured and disciplined process, and strong leadership, which collectively drive its appeal."
+            },
+            {
+              "explanation": "The focus on long-term earnings growth reflects a structured and well-defined investment philosophy, which, according to the silver_matrix, indicates Clear clarity of process.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns, reflecting a clear and focused investment philosophy."
+            },
+            {
+              "explanation": "The process is described as 'robust' and 'disciplined' across reports, which, according to the silver_matrix, indicates Clear clarity of process because it demonstrates a structured and disciplined methodology.",
+              "source_text": "The process is robust, disciplined, and supported by diligent research, helping the team build a deep understanding of businesses."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Clear",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The process of selecting stocks from a vetted universe is consistently described as clear and structured across reports, which, according to the silver_matrix, indicates Clear clarity of process.",
+              "source_text": "Portfolios reflect the best stock ideas from across regions, selected from a vetted universe of high-quality stocks with attractive upside potential."
+            }
+          ]
+        }
+      },
+      "Team Capability": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The leadership of Mark Phelps and the team's experience and collaboration are highlighted across reports, indicating Strong team capability as defined by the silver_matrix, which emphasizes capable leadership and long-standing collaboration.",
+              "source_text": "The strategy is built on a clear philosophy, a well-structured and disciplined process, and strong leadership, which collectively drive its appeal."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The alignment between the strategy's philosophy, process, and leadership is consistently emphasized across reports, indicating High strategic alignment as per the silver_matrix, which requires cohesive alignment with long-term goals.",
+              "source_text": "The strategy is built on a clear philosophy, a well-structured and disciplined process, and strong leadership, which collectively drive its appeal."
+            },
+            {
+              "explanation": "The belief in long-term earnings growth aligns with the strategy's focus on sustainable and superior returns, which, according to the silver_matrix, indicates High strategic alignment because it reflects alignment with long-term goals.",
+              "source_text": "The team believes that long-term, consistent earnings growth drives long-term investment returns, reflecting a clear and focused investment philosophy."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on high-quality stocks aligns with the strategy's philosophy and objectives, which, according to the silver_matrix, indicates High strategic alignment.",
+              "source_text": "Portfolios reflect the best stock ideas from across regions, selected from a vetted universe of high-quality stocks with attractive upside potential."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on growth areas aligns with the firm's long-term strategic objectives, which, according to the silver_matrix, indicates High strategic alignment.",
+              "source_text": "AB is a large international organization with robust resources and a focus on investing in growth areas, aligning with its long-term strategic objectives."
+            }
+          ]
+        }
+      },
+      "Evidence Strength": {
+        "Idea Generation": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The emphasis on 'diligent research' and the use of specific metrics across reports indicate Strong evidence strength, as defined by the silver_matrix, which requires robust evidence-based approaches.",
+              "source_text": "The process is robust, disciplined, and supported by diligent research, helping the team build a deep understanding of businesses."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "Strong",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The use of a vetted universe and focus on quality stocks provide Strong evidence strength, as defined by the silver_matrix, which emphasizes robust evidence supporting portfolio decisions.",
+              "source_text": "Portfolios reflect the best stock ideas from across regions, selected from a vetted universe of high-quality stocks with attractive upside potential."
+            }
+          ]
+        }
+      },
+      "Process Discipline": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The consistent description of the process as 'disciplined' and 'robust' across reports reflects High process discipline, as defined by the silver_matrix, which emphasizes rigor and consistency.",
+              "source_text": "The process is robust, disciplined, and supported by diligent research, helping the team build a deep understanding of businesses."
+            }
+          ]
+        },
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The maintenance of static capacity limits over many years reflects High process discipline, as defined by the silver_matrix, which emphasizes consistency and rigor.",
+              "source_text": "The team has implemented proactive capacity limits and maintains low turnover, enhancing liquidity and reducing execution risk."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Implementation": {
+          "value": "Low",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The proactive establishment of capacity limits and low turnover reduce the risk of overextension, which, according to the silver_matrix, indicates Low execution risk.",
+              "source_text": "The team has implemented proactive capacity limits and maintains low turnover, enhancing liquidity and reducing execution risk."
+            }
+          ]
+        }
+      },
+      "Liquidity": {
+        "Implementation": {
+          "value": "High",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The focus on larger businesses and low turnover enhances liquidity, which, according to the silver_matrix, indicates High liquidity.",
+              "source_text": "The team has implemented proactive capacity limits and maintains low turnover, enhancing liquidity and reducing execution risk."
+            }
+          ]
+        }
+      },
+      "Resource Strength": {
+        "Business Management": {
+          "value": "Robust",
+          "color": "green",
+          "explanations": [
+            {
+              "explanation": "The organization's scale and investment in growth areas demonstrate Robust resource strength, as defined by the silver_matrix, which emphasizes strong resource allocation.",
+              "source_text": "AB is a large international organization with robust resources and a focus on investing in growth areas, aligning with its long-term strategic objectives."
+            }
+          ]
+        }
+      }
+    },
+    "cons": {
+      "Collaboration": {
+        "Idea Generation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The potential for silos due to local focus suggests that collaboration may not be fully optimized, which, according to the silver_matrix, indicates Moderate collaboration.",
+              "source_text": "The regional teams' local focus may create silos, potentially hindering collaboration and execution of a cohesive strategy."
+            }
+          ]
+        }
+      },
+      "Execution Risk": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The risk of silos could hinder the execution of a cohesive strategy, which, according to the silver_matrix, indicates Moderate execution risk.",
+              "source_text": "The regional teams' local focus may create silos, potentially hindering collaboration and execution of a cohesive strategy."
+            },
+            {
+              "explanation": "The reliance on key individuals increases execution risk, which, according to the silver_matrix, indicates High execution risk.",
+              "source_text": "The strategy's success appears heavily dependent on key individuals, increasing key person risk."
+            }
+          ]
+        },
+        "Portfolio Construction": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The concentrated portfolio increases the impact of mistakes, which, according to the silver_matrix, indicates High execution risk.",
+              "source_text": "The concentrated nature of the portfolio increases the impact of individual stock mistakes, raising execution risk despite a quality focus."
+            }
+          ]
+        }
+      },
+      "Risk Mitigation": {
+        "Portfolio Construction": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The quality focus partially mitigates risks but does not eliminate them, which, according to the silver_matrix, indicates Moderate risk mitigation.",
+              "source_text": "The concentrated nature of the portfolio increases the impact of individual stock mistakes, raising execution risk despite a quality focus."
+            }
+          ]
+        }
+      },
+      "Cost Efficiency": {
+        "Implementation": {
+          "value": "Low",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The higher-than-median fees indicate Low cost efficiency, as defined by the silver_matrix.",
+              "source_text": "Fees are higher than the median within the global equity universe, reducing cost efficiency and potentially misaligning with client expectations."
+            }
+          ]
+        }
+      },
+      "Strategic Alignment": {
+        "Implementation": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The willingness to negotiate fees shows some alignment with client interests, but the high fees remain a concern, which, according to the silver_matrix, indicates Moderate strategic alignment.",
+              "source_text": "Fees are higher than the median within the global equity universe, reducing cost efficiency and potentially misaligning with client expectations."
+            }
+          ]
+        },
+        "Business Management": {
+          "value": "Moderate",
+          "color": "yellow",
+          "explanations": [
+            {
+              "explanation": "The uncertainty about independence affects alignment with long-term strategic goals, which, according to the silver_matrix, indicates Moderate strategic alignment.",
+              "source_text": "The potential loss of independence from its parent company introduces governance and execution risks, impacting strategic alignment."
+            }
+          ]
+        }
+      },
+      "Governance Risk": {
+        "Business Management": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The potential for interference from the parent company introduces High governance risk, as defined by the silver_matrix.",
+              "source_text": "The potential loss of independence from its parent company introduces governance and execution risks, impacting strategic alignment."
+            }
+          ]
+        }
+      },
+      "Dependence on Key Individuals": {
+        "Idea Generation": {
+          "value": "High",
+          "color": "red",
+          "explanations": [
+            {
+              "explanation": "The reliance on specific individuals, such as Chakrabarti, introduces High dependence on key individuals, as defined by the silver_matrix.",
+              "source_text": "The strategy's success appears heavily dependent on key individuals, increasing key person risk."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

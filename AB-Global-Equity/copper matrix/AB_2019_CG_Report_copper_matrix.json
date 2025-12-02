@@ -1,0 +1,119 @@
+{
+  "pdf_file": "AB_2019_CG_Report.pdf",
+  "generation_date": "2025-12-02T17:00:15.088255",
+  "matrix": {
+    "pros": {
+      "Idea Generation": {
+        "Strategic Alignment": {
+          "High": "Assigned when the text emphasizes alignment between the team's philosophy and long-term investment strategy, such as focusing on consistent earnings growth, sustainable returns, or minimizing risk while achieving growth. Examples include 'long-term, consistent earnings growth drives long-term investment returns' and 'invest in high-quality, growing companies producing superior and sustainable returns.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when the text describes a structured, transparent, and well-defined investment process, such as explicitly defined screening criteria or a clear investment philosophy. Examples include 'screening criteria for market capitalization and earnings growth are explicitly defined' and 'belief in consistent earnings growth provides a clear foundation.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the text highlights consistent adherence to a focused approach over time, reflecting strong discipline in the investment process. Examples include 'team's consistent adherence to a focused approach over many years' and 'long-term adherence to a disciplined process.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the text references the use of specific, measurable, and quantitative metrics to support investment decisions, such as market capitalization and earnings growth. Examples include 'screening process based on measurable financial metrics' and 'use of specific quantitative metrics demonstrates robust evidence-based approach.'"
+        },
+        "Team Capability": {
+          "Strong": "Assigned when the text highlights the team's experience, collaboration, and long-standing cohesion, indicating high capability. Examples include 'team is experienced and collegiate' and 'long-term collaboration suggests strong capability.'"
+        },
+        "Innovation Level": {
+          "Moderate": "Assigned when the text describes approaches that are effective but not novel or proprietary, such as focusing on high-quality, sustainable growth companies using established methodologies. Example includes 'focus on high-quality, sustainable growth companies is a well-established approach.'"
+        },
+        "Risk Management": {
+          "Strong": "Assigned when the text emphasizes minimizing risk as a core part of the strategy, such as focusing on high-quality companies to mitigate risks. Example includes 'emphasis on minimizing risk demonstrates strong risk management approach.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Strategic Alignment": {
+          "High": "Assigned when the text highlights alignment between portfolio construction and the strategy's focus on high-quality stocks with attractive upside potential. Examples include 'portfolios reflect the best stock ideas from vetted universe' and 'construction aligns with focus on high-quality stocks.'"
+        },
+        "Clarity of Process": {
+          "Clear": "Assigned when the text describes a transparent and well-defined process for portfolio construction, such as selecting vetted stocks with upside potential. Examples include 'process of selecting best ideas from vetted universe is clearly articulated.'"
+        },
+        "Track Record": {
+          "Strong": "Assigned when the text references consistent outperformance of benchmarks or historical success of the strategy. Example includes 'strategy has outperformed benchmark even on net of fees basis.'"
+        },
+        "Evidence Strength": {
+          "Strong": "Assigned when the text provides measurable historical performance data or other quantitative evidence supporting portfolio construction decisions. Example includes 'historical performance data provides strong evidence of strategy's effectiveness.'"
+        }
+      },
+      "Implementation": {
+        "Strategic Alignment": {
+          "High": "Assigned when the text highlights proactive measures that align with long-term strategy goals, such as capacity limits or infrastructure checks. Examples include 'proactive capacity management aligns with long-term investment philosophy.'"
+        },
+        "Execution Risk": {
+          "Low": "Assigned when the text describes measures that reduce risks in implementation, such as capacity limits or checks and balances. Examples include 'capacity limit reduces risk of overextension' and 'checks and balances reduce risk of errors.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the text highlights strong infrastructure or adequate resources supporting implementation. Example includes 'strong infrastructure and checks indicate robust resources.'"
+        }
+      },
+      "Business Management": {
+        "Leadership Strength": {
+          "Strong": "Assigned when the text highlights strong leadership qualities, such as clarity, focus, and disciplined management. Example includes 'Mark Phelps' leadership is highlighted as a key strength.'"
+        },
+        "Process Discipline": {
+          "High": "Assigned when the text emphasizes a well-structured and disciplined process in business management. Example includes 'strategy's well-structured and disciplined process reflects operational rigor.'"
+        },
+        "Resource Strength": {
+          "Robust": "Assigned when the text highlights the firm's scale and investment in growth areas, indicating strong resources. Example includes 'AB's scale and investment in growth areas indicate robust resources.'"
+        }
+      }
+    },
+    "cons": {
+      "Idea Generation": {
+        "Team Collaboration": {
+          "Moderate": "Assigned when the text raises concerns about potential silos or limited collaboration across regions. Examples include 'concern about silos suggests collaboration may not be fully optimized.'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when the text highlights risks related to silos or challenges in executing a cohesive strategy. Examples include 'risk of silos could hinder effective execution of strategy.'"
+        },
+        "Team Capability": {
+          "Average": "Assigned when the text suggests potential limitations in collaboration or cohesion due to regional silos. Example includes 'potential for silos could limit team's ability to collaborate effectively.'"
+        },
+        "Process Discipline": {
+          "Medium": "Assigned when the text raises concerns about maintaining a unified process across regions. Example includes 'concern about silos suggests weakness in unified process.'"
+        }
+      },
+      "Portfolio Construction": {
+        "Execution Risk": {
+          "High": "Assigned when the text highlights risks associated with concentrated portfolios, such as increased impact of individual stock mistakes. Example includes 'concentrated portfolio increases impact of individual stock mistakes.'"
+        },
+        "Risk Mitigation": {
+          "Moderate": "Assigned when the text describes partial mitigation of risks through quality focus but does not eliminate risks entirely. Example includes 'quality focus mitigates but does not eliminate risks.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when the text suggests that portfolio concentration may not align with all investor preferences. Example includes 'concentration may not align with all investor preferences.'"
+        }
+      },
+      "Implementation": {
+        "Cost Efficiency": {
+          "Low": "Assigned when the text highlights higher-than-median fees as a drawback, even if negotiation efforts are mentioned. Example includes 'higher fees indicate lower cost efficiency.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when the text suggests partial alignment with client expectations due to willingness to negotiate fees. Example includes 'higher fees may not fully align with client expectations.'"
+        },
+        "Resource Strength": {
+          "Limited": "Assigned when the text highlights limitations in cost efficiency or appeal to cost-sensitive investors. Example includes 'higher fees could limit strategy's appeal to cost-sensitive investors.'"
+        }
+      },
+      "Business Management": {
+        "Independence Risk": {
+          "High": "Assigned when the text highlights risks related to potential loss of independence from the parent company. Example includes 'potential loss of independence poses significant risk to operations.'"
+        },
+        "Strategic Alignment": {
+          "Moderate": "Assigned when the text suggests alignment between the firm's strategy and parent company goals may be at risk. Example includes 'alignment may be affected by future changes in independence.'"
+        },
+        "Execution Risk": {
+          "Moderate": "Assigned when the text highlights risks related to corporate memory or potential interference from the parent company. Example includes 'impact of corporate memory introduces moderate execution risk.'"
+        },
+        "Track Record": {
+          "Developing": "Assigned when the text references past struggles or challenges that indicate an improving but not fully established track record. Example includes 'past struggles during GFC indicate developing track record.'"
+        }
+      }
+    }
+  }
+}
